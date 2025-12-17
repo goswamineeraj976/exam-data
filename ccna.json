@@ -1,0 +1,177 @@
+{
+  "subjects": [
+    {
+      "name": "Networking Fundamentals",
+      "questions": [
+        {
+          "question": "Which layer of the OSI model is responsible for logical addressing?",
+          "options": [
+            "Physical",
+            "Data Link",
+            "Network",
+            "Transport"
+          ],
+          "correct": [2],
+          "explanation": "The Network layer (Layer 3) handles logical addressing (e.g., IP addresses). Routers operate at this layer."
+        },
+        {
+          "question": "What is the decimal equivalent of the binary IP address 11000000.10101000.00000001.00000001?",
+          "options": [
+            "192.168.1.1",
+            "172.16.0.1",
+            "10.0.0.1",
+            "192.168.0.1"
+          ],
+          "correct": [0],
+          "explanation": "11000000 = 192, 10101000 = 168, 00000001 = 1 → 192.168.1.1"
+        },
+        {
+          "question": "Which of the following are private IPv4 address ranges? (Select all that apply)",
+          "options": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "169.254.0.0/16"
+          ],
+          "correct": [0, 1, 2],
+          "explanation": "Private IPv4 ranges: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16. 169.254.0.0/16 is APIPA (link-local)."
+        }
+      ]
+    },
+    {
+      "name": "IP Connectivity",
+      "questions": [
+        {
+          "question": "Which command configures a default gateway on a Cisco switch?",
+          "options": [
+            "ip route 0.0.0.0 0.0.0.0 192.168.1.1",
+            "ip default-gateway 192.168.1.1",
+            "ip route default 192.168.1.1",
+            "gateway 192.168.1.1"
+          ],
+          "correct": [1],
+          "explanation": "Switches (Layer 2) use 'ip default-gateway'. Routers (Layer 3) use 'ip route 0.0.0.0 0.0.0.0'."
+        },
+        {
+          "question": "What protocol does traceroute use by default on Cisco devices?",
+          "options": [
+            "ICMP",
+            "UDP",
+            "TCP",
+            "ARP"
+          ],
+          "correct": [1],
+          "explanation": "Cisco traceroute uses UDP by default. Windows tracert uses ICMP."
+        }
+      ]
+    },
+    {
+      "name": "Network Access",
+      "questions": [
+        {
+          "question": "Which Ethernet frame field contains the destination MAC address?",
+          "options": [
+            "Preamble",
+            "Destination MAC",
+            "Source MAC",
+            "Type"
+          ],
+          "correct": [1],
+          "explanation": "Ethernet frame structure: Preamble → Destination MAC → Source MAC → Type/Length → Data → FCS."
+        },
+        {
+          "question": "What is the purpose of the CSMA/CD protocol?",
+          "options": [
+            "To prevent collisions on full-duplex links",
+            "To detect and recover from collisions on half-duplex links",
+            "To encrypt data on the wire",
+            "To assign IP addresses dynamically"
+          ],
+          "correct": [1],
+          "explanation": "CSMA/CD (Carrier Sense Multiple Access with Collision Detection) is used in half-duplex Ethernet to handle collisions. Not used in full-duplex."
+        }
+      ]
+    },
+    {
+      "name": "IP Services",
+      "questions": [
+        {
+          "question": "Which DHCP message type is sent by a client to request an IP address?",
+          "options": [
+            "DHCPDISCOVER",
+            "DHCPOFFER",
+            "DHCPREQUEST",
+            "DHCPACK"
+          ],
+          "correct": [0],
+          "explanation": "DHCP process: DISCOVER → OFFER → REQUEST → ACK. Client starts with DISCOVER."
+        },
+        {
+          "question": "What is the primary function of NAT?",
+          "options": [
+            "To encrypt traffic between networks",
+            "To conserve IPv4 address space",
+            "To provide DNS resolution",
+            "To authenticate users"
+          ],
+          "correct": [1],
+          "explanation": "NAT (Network Address Translation) allows multiple devices to share a single public IP, conserving IPv4 addresses."
+        }
+      ]
+    },
+    {
+      "name": "Security Fundamentals",
+      "questions": [
+        {
+          "question": "Which command enables password encryption on a Cisco device?",
+          "options": [
+            "service password-encryption",
+            "enable secret",
+            "username admin secret",
+            "line vty 0 4"
+          ],
+          "correct": [0],
+          "explanation": "'service password-encryption' encrypts all plaintext passwords in the config using weak Vigenère cipher. 'enable secret' uses MD5."
+        },
+        {
+          "question": "What type of attack is mitigated by port security?",
+          "options": [
+            "DDoS",
+            "MAC flooding",
+            "ARP spoofing",
+            "DNS tunneling"
+          ],
+          "correct": [1],
+          "explanation": "Port security limits MAC addresses per switch port, preventing MAC flooding attacks that exhaust the CAM table."
+        }
+      ]
+    },
+    {
+      "name": "Automation and Programmability",
+      "questions": [
+        {
+          "question": "Which data format is commonly used in REST APIs?",
+          "options": [
+            "XML",
+            "JSON",
+            "YAML",
+            "All of the above"
+          ],
+          "correct": [3],
+          "explanation": "REST APIs commonly use JSON, XML, or YAML. JSON is most popular in modern APIs."
+        },
+        {
+          "question": "What is the primary benefit of using automation in network management?",
+          "options": [
+            "Reduced operational costs",
+            "Faster deployment",
+            "Fewer human errors",
+            "All of the above"
+          ],
+          "correct": [3],
+          "explanation": "Automation reduces costs, speeds up deployments, and minimizes human errors through consistent, repeatable processes."
+        }
+      ]
+    }
+  ]
+}
