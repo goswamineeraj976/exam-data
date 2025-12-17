@@ -5,7 +5,7 @@
     "description": "Cisco Certified Network Associate (200-301)",
     "questionCount": 650,
     "subjectCount": 7,
-    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/ccna.json"
+    "githubUrl": "https://raw.githubusercontent.com/goswamineeraj976/exam-data/main/ccna.json"
   },
   {
     "slug": "ccnp",
