@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "ccna",
+    "name": "Cisco CCNA",
+    "description": "Cisco Certified Network Associate (200-301)",
+    "questionCount": 650,
+    "subjectCount": 7,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/ccna.json"
+  },
+  {
+    "slug": "ccnp",
+    "name": "Cisco CCNP",
+    "description": "Cisco Certified Network Professional (350-401 ENCOR)",
+    "questionCount": 580,
+    "subjectCount": 6,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/ccnp.json"
+  },
+  {
+    "slug": "comptia_a",
+    "name": "CompTIA A+",
+    "description": "Core 1 (220-1101) & Core 2 (220-1102)",
+    "questionCount": 1100,
+    "subjectCount": 9,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/comptia_a.json"
+  },
+  {
+    "slug": "comptia_netplus",
+    "name": "CompTIA Network+",
+    "description": "N10-009 Certification",
+    "questionCount": 750,
+    "subjectCount": 5,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/comptia_netplus.json"
+  },
+  {
+    "slug": "comptia_secplus",
+    "name": "CompTIA Security+",
+    "description": "SY0-701 Certification",
+    "questionCount": 820,
+    "subjectCount": 5,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/comptia_secplus.json"
+  },
+  {
+    "slug": "comptia_cloudplus",
+    "name": "CompTIA Cloud+",
+    "description": "CV0-004 Certification",
+    "questionCount": 600,
+    "subjectCount": 6,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/comptia_cloudplus.json"
+  },
+  {
+    "slug": "comptia_cysa",
+    "name": "CompTIA CySA+",
+    "description": "Cybersecurity Analyst (CS0-003)",
+    "questionCount": 550,
+    "subjectCount": 4,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/comptia_cysa.json"
+  },
+  {
+    "slug": "comptia_casp",
+    "name": "CompTIA CASP+",
+    "description": "Advanced Security Practitioner (CAS-004)",
+    "questionCount": 480,
+    "subjectCount": 5,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/comptia_casp.json"
+  },
+  {
+    "slug": "isc2_cc",
+    "name": "(ISC)² Certified in Cybersecurity (CC)",
+    "description": "Entry-level cybersecurity certification",
+    "questionCount": 100,
+    "subjectCount": 4,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/isc2_cc.json"
+  },
+  {
+    "slug": "isc2_sscp",
+    "name": "(ISC)² SSCP",
+    "description": "Systems Security Certified Practitioner",
+    "questionCount": 500,
+    "subjectCount": 7,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/isc2_sscp.json"
+  },
+  {
+    "slug": "isc2_cissp",
+    "name": "(ISC)² CISSP",
+    "description": "Certified Information Systems Security Professional",
+    "questionCount": 900,
+    "subjectCount": 8,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/isc2_cissp.json"
+  },
+  {
+    "slug": "ceh",
+    "name": "EC-Council CEH",
+    "description": "Certified Ethical Hacker (312-50v12)",
+    "questionCount": 720,
+    "subjectCount": 6,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/ceh.json"
+  },
+  {
+    "slug": "pentest_plus",
+    "name": "CompTIA Pentest+",
+    "description": "Penetration Tester Certification (PT0-002)",
+    "questionCount": 420,
+    "subjectCount": 5,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/pentest_plus.json"
+  },
+  {
+    "slug": "aws_ccp",
+    "name": "AWS Certified Cloud Practitioner",
+    "description": "Foundational AWS cloud knowledge",
+    "questionCount": 300,
+    "subjectCount": 4,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/aws_ccp.json"
+  },
+  {
+    "slug": "aws_saa",
+    "name": "AWS Solutions Architect Associate",
+    "description": "SAA-C03 Certification",
+    "questionCount": 650,
+    "subjectCount": 6,
+    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/aws_saa.json"
+  }
+]
