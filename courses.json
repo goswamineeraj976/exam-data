@@ -8,12 +8,12 @@
     "githubUrl": "https://raw.githubusercontent.com/goswamineeraj976/exam-data/main/ccna.json"
   },
   {
-    "slug": "ccnp",
-    "name": "Cisco CCNP",
-    "description": "Cisco Certified Network Professional (350-401 ENCOR)",
+    "slug": "neet",
+    "name": "NEET",
+    "description": "National Eligibility cum Entrance Test",
     "questionCount": 580,
     "subjectCount": 6,
-    "githubUrl": "https://raw.githubusercontent.com/yourname/exam-data/main/ccnp.json"
+    "githubUrl": "https://raw.githubusercontent.com/goswamineeraj976/exam-data/main/physics_hi.json"
   },
   {
     "slug": "comptia_a",
