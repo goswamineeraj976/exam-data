@@ -8,8 +8,8 @@
     "githubUrl": "https://raw.githubusercontent.com/goswamineeraj976/exam-data/main/ccna.json"
   },
   {
-    "slug": "neet",
-    "name": "NEET",
+    "slug": "neet-hi",
+    "name": "NEET Hindi Medium",
     "description": "National Eligibility cum Entrance Test",
     "questionCount": 580,
     "subjectCount": 6,
