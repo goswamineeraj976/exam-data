@@ -1,0 +1,649 @@
+{
+    "subjectId": 1,
+    "subjectName": "Physics",
+    "totalChapters": 28,
+    "chapters": [
+      {
+        "chapterId": 128,
+        "chapterName": "Physics and Measurement",
+        "priority": "low",
+        "summary": "Units, dimensions, errors, significant figures - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch128.zip",
+        "questionCount": 45,
+        "diagramCount": 12,
+        "sizeKB": 2150,
+        "topics": [
+          {
+            "topicId": 1281,
+            "topicName": "Vernier Calipers and Screw Gauge",
+            "isHighYield": true,
+            "explanation": "Least count calculations and zero error corrections."
+          },
+          {
+            "topicId": 1282,
+            "topicName": "Error Analysis",
+            "isHighYield": true,
+            "explanation": "Percentage error propagation in derived quantities."
+          },
+          {
+            "topicId": 1283,
+            "topicName": "Dimensional Analysis",
+            "isHighYield": true,
+            "explanation": "Checking dimensional consistency and deriving relationships."
+          }
+        ]
+      },
+      {
+        "chapterId": 103,
+        "chapterName": "Kinematics",
+        "priority": "very_high",
+        "summary": "Projectile motion, relative velocity, equations of motion - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch103.zip",
+        "questionCount": 75,
+        "diagramCount": 42,
+        "sizeKB": 5840,
+        "topics": [
+          {
+            "topicId": 1031,
+            "topicName": "Motion in Straight Line",
+            "isHighYield": true,
+            "explanation": "Displacement, velocity, acceleration graphs and equations."
+          },
+          {
+            "topicId": 1032,
+            "topicName": "Relative Motion",
+            "isHighYield": true,
+            "explanation": "Relative velocity in 1D and 2D frames."
+          },
+          {
+            "topicId": 1033,
+            "topicName": "Projectile Motion",
+            "isHighYield": true,
+            "explanation": "Time of flight, range, maximum height calculations."
+          }
+        ]
+      },
+      {
+        "chapterId": 104,
+        "chapterName": "Laws of Motion",
+        "priority": "very_high",
+        "summary": "Newton's laws, friction, circular motion - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch104.zip",
+        "questionCount": 72,
+        "diagramCount": 38,
+        "sizeKB": 5120,
+        "topics": [
+          {
+            "topicId": 1041,
+            "topicName": "Newton's Laws",
+            "isHighYield": true,
+            "explanation": "F = ma applications in constrained motion."
+          },
+          {
+            "topicId": 1042,
+            "topicName": "Friction",
+            "isHighYield": true,
+            "explanation": "Static and kinetic friction on inclined planes."
+          },
+          {
+            "topicId": 1043,
+            "topicName": "Circular Motion",
+            "isHighYield": true,
+            "explanation": "Banked roads, conical pendulum, vertical circle."
+          }
+        ]
+      },
+      {
+        "chapterId": 105,
+        "chapterName": "Work, Energy and Power",
+        "priority": "high",
+        "summary": "Work-energy theorem, conservation laws - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch105.zip",
+        "questionCount": 62,
+        "diagramCount": 24,
+        "sizeKB": 3420,
+        "topics": [
+          {
+            "topicId": 1051,
+            "topicName": "Work-Energy Theorem",
+            "isHighYield": true,
+            "explanation": "Variable force work calculations."
+          },
+          {
+            "topicId": 1052,
+            "topicName": "Conservative Forces",
+            "isHighYield": true,
+            "explanation": "Potential energy curves and stability."
+          }
+        ]
+      },
+      {
+        "chapterId": 106,
+        "chapterName": "Rotational Motion",
+        "priority": "very_high",
+        "summary": "Moment of inertia, torque, angular momentum - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch106.zip",
+        "questionCount": 70,
+        "diagramCount": 36,
+        "sizeKB": 4980,
+        "topics": [
+          {
+            "topicId": 1061,
+            "topicName": "Moment of Inertia",
+            "isHighYield": true,
+            "explanation": "Parallel and perpendicular axes theorems."
+          },
+          {
+            "topicId": 1062,
+            "topicName": "Angular Momentum",
+            "isHighYield": true,
+            "explanation": "Conservation in central force motion."
+          },
+          {
+            "topicId": 1063,
+            "topicName": "Rolling Motion",
+            "isHighYield": true,
+            "explanation": "Pure rolling on inclined planes."
+          }
+        ]
+      },
+      {
+        "chapterId": 107,
+        "chapterName": "Gravitation",
+        "priority": "high",
+        "summary": "Kepler's laws, gravitational potential - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch107.zip",
+        "questionCount": 58,
+        "diagramCount": 22,
+        "sizeKB": 3240,
+        "topics": [
+          {
+            "topicId": 1071,
+            "topicName": "Kepler's Laws",
+            "isHighYield": true,
+            "explanation": "Areal velocity and orbital period relationships."
+          },
+          {
+            "topicId": 1072,
+            "topicName": "Gravitational Potential",
+            "isHighYield": true,
+            "explanation": "Potential energy in multi-body systems."
+          }
+        ]
+      },
+      {
+        "chapterId": 101,
+        "chapterName": "Properties of Solids",
+        "priority": "high",
+        "summary": "Elasticity, stress-strain curves - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch101.zip",
+        "questionCount": 55,
+        "diagramCount": 26,
+        "sizeKB": 3420,
+        "topics": [
+          {
+            "topicId": 1011,
+            "topicName": "Elasticity",
+            "isHighYield": true,
+            "explanation": "Young's modulus, bulk modulus calculations."
+          },
+          {
+            "topicId": 1012,
+            "topicName": "Surface Tension",
+            "isHighYield": true,
+            "explanation": "Capillary rise and excess pressure in drops."
+          }
+        ]
+      },
+      {
+        "chapterId": 102,
+        "chapterName": "Properties of Fluids",
+        "priority": "high",
+        "summary": "Bernoulli's theorem, viscosity - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch102.zip",
+        "questionCount": 60,
+        "diagramCount": 28,
+        "sizeKB": 3780,
+        "topics": [
+          {
+            "topicId": 1021,
+            "topicName": "Bernoulli's Theorem",
+            "isHighYield": true,
+            "explanation": "Venturi meter and dynamic lift applications."
+          },
+          {
+            "topicId": 1022,
+            "topicName": "Viscosity",
+            "isHighYield": false,
+            "explanation": "Stokes' law and terminal velocity."
+          }
+        ]
+      },
+      {
+        "chapterId": 110,
+        "chapterName": "Thermodynamics",
+        "priority": "high",
+        "summary": "Laws of thermodynamics, heat engines - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch110.zip",
+        "questionCount": 62,
+        "diagramCount": 26,
+        "sizeKB": 3680,
+        "topics": [
+          {
+            "topicId": 1101,
+            "topicName": "First Law",
+            "isHighYield": true,
+            "explanation": "Cyclic processes and PV diagrams."
+          },
+          {
+            "topicId": 1102,
+            "topicName": "Second Law",
+            "isHighYield": true,
+            "explanation": "Carnot engine efficiency calculations."
+          }
+        ]
+      },
+      {
+        "chapterId": 111,
+        "chapterName": "Kinetic Theory of Gases",
+        "priority": "high",
+        "summary": "Ideal gas equation, degrees of freedom - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch111.zip",
+        "questionCount": 52,
+        "diagramCount": 18,
+        "sizeKB": 2980,
+        "topics": [
+          {
+            "topicId": 1111,
+            "topicName": "Ideal Gas Equation",
+            "isHighYield": true,
+            "explanation": "PV = nRT applications."
+          },
+          {
+            "topicId": 1112,
+            "topicName": "Degrees of Freedom",
+            "isHighYield": true,
+            "explanation": "Equipartition theorem and γ values."
+          }
+        ]
+      },
+      {
+        "chapterId": 109,
+        "chapterName": "Oscillations and Waves",
+        "priority": "very_high",
+        "summary": "SHM, wave motion, Doppler effect - 4-5 questions annually in NEET.",
+        "zipUrl": "chapters/ch109.zip",
+        "questionCount": 82,
+        "diagramCount": 48,
+        "sizeKB": 6720,
+        "topics": [
+          {
+            "topicId": 1091,
+            "topicName": "Simple Harmonic Motion",
+            "isHighYield": true,
+            "explanation": "Energy in SHM and phase relationships."
+          },
+          {
+            "topicId": 1092,
+            "topicName": "Wave Motion",
+            "isHighYield": true,
+            "explanation": "Progressive wave equation and superposition."
+          },
+          {
+            "topicId": 1093,
+            "topicName": "Doppler Effect",
+            "isHighYield": true,
+            "explanation": "Source and observer motion combinations."
+          }
+        ]
+      },
+      {
+        "chapterId": 113,
+        "chapterName": "Electric Charges and Fields",
+        "priority": "very_high",
+        "summary": "Coulomb's law, Gauss's law - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch113.zip",
+        "questionCount": 75,
+        "diagramCount": 38,
+        "sizeKB": 5420,
+        "topics": [
+          {
+            "topicId": 1131,
+            "topicName": "Coulomb's Law",
+            "isHighYield": true,
+            "explanation": "Force calculations in symmetric charge distributions."
+          },
+          {
+            "topicId": 1132,
+            "topicName": "Gauss's Law",
+            "isHighYield": true,
+            "explanation": "Field due to infinite line/plane/spherical charge."
+          }
+        ]
+      },
+      {
+        "chapterId": 114,
+        "chapterName": "Electrostatic Potential and Capacitance",
+        "priority": "high",
+        "summary": "Potential, capacitance combinations - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch114.zip",
+        "questionCount": 65,
+        "diagramCount": 32,
+        "sizeKB": 4380,
+        "topics": [
+          {
+            "topicId": 1141,
+            "topicName": "Electric Potential",
+            "isHighYield": true,
+            "explanation": "Potential due to dipoles and continuous distributions."
+          },
+          {
+            "topicId": 1142,
+            "topicName": "Capacitance",
+            "isHighYield": true,
+            "explanation": "Series/parallel combinations and energy storage."
+          }
+        ]
+      },
+      {
+        "chapterId": 115,
+        "chapterName": "Current Electricity",
+        "priority": "very_high",
+        "summary": "Ohm's law, Kirchhoff's laws, meter bridge - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch115.zip",
+        "questionCount": 78,
+        "diagramCount": 42,
+        "sizeKB": 5840,
+        "topics": [
+          {
+            "topicId": 1151,
+            "topicName": "Kirchhoff's Laws",
+            "isHighYield": true,
+            "explanation": "Wheatstone bridge and complex networks."
+          },
+          {
+            "topicId": 1152,
+            "topicName": "Meter Bridge",
+            "isHighYield": true,
+            "explanation": "Specific resistance measurements."
+          }
+        ]
+      },
+      {
+        "chapterId": 116,
+        "chapterName": "Moving Charges and Magnetism",
+        "priority": "high",
+        "summary": "Lorentz force, Biot-Savart law - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch116.zip",
+        "questionCount": 65,
+        "diagramCount": 36,
+        "sizeKB": 4980,
+        "topics": [
+          {
+            "topicId": 1161,
+            "topicName": "Lorentz Force",
+            "isHighYield": true,
+            "explanation": "Motion of charged particles in E and B fields."
+          },
+          {
+            "topicId": 1162,
+            "topicName": "Biot-Savart Law",
+            "isHighYield": true,
+            "explanation": "Field due to current loops and solenoids."
+          }
+        ]
+      },
+      {
+        "chapterId": 117,
+        "chapterName": "Magnetism and Matter",
+        "priority": "low",
+        "summary": "Magnetic materials, Earth's magnetism - 1-2 questions annually in NEET.",
+        "zipUrl": "chapters/ch117.zip",
+        "questionCount": 48,
+        "diagramCount": 22,
+        "sizeKB": 2840,
+        "topics": [
+          {
+            "topicId": 1171,
+            "topicName": "Magnetic Materials",
+            "isHighYield": true,
+            "explanation": "Para-, dia-, ferromagnetism characteristics."
+          }
+        ]
+      },
+      {
+        "chapterId": 118,
+        "chapterName": "Electromagnetic Induction",
+        "priority": "high",
+        "summary": "Faraday's law, Lenz's law - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch118.zip",
+        "questionCount": 62,
+        "diagramCount": 34,
+        "sizeKB": 4380,
+        "topics": [
+          {
+            "topicId": 1181,
+            "topicName": "Faraday's Law",
+            "isHighYield": true,
+            "explanation": "Motional EMF and flux calculations."
+          },
+          {
+            "topicId": 1182,
+            "topicName": "Lenz's Law",
+            "isHighYield": true,
+            "explanation": "Direction of induced current."
+          }
+        ]
+      },
+      {
+        "chapterId": 119,
+        "chapterName": "Alternating Current",
+        "priority": "high",
+        "summary": "LCR circuits, power factor - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch119.zip",
+        "questionCount": 60,
+        "diagramCount": 32,
+        "sizeKB": 4120,
+        "topics": [
+          {
+            "topicId": 1191,
+            "topicName": "LCR Circuits",
+            "isHighYield": true,
+            "explanation": "Resonance frequency and impedance."
+          },
+          {
+            "topicId": 1192,
+            "topicName": "Power Factor",
+            "isHighYield": true,
+            "explanation": "Wattless current and power calculations."
+          }
+        ]
+      },
+      {
+        "chapterId": 120,
+        "chapterName": "Electromagnetic Waves",
+        "priority": "low",
+        "summary": "EM spectrum properties - 1 question annually in NEET.",
+        "zipUrl": "chapters/ch120.zip",
+        "questionCount": 42,
+        "diagramCount": 16,
+        "sizeKB": 2180,
+        "topics": [
+          {
+            "topicId": 1201,
+            "topicName": "EM Spectrum",
+            "isHighYield": true,
+            "explanation": "Wavelength ranges and applications."
+          }
+        ]
+      },
+      {
+        "chapterId": 121,
+        "chapterName": "Ray Optics and Optical Instruments",
+        "priority": "very_high",
+        "summary": "Lens formula, optical instruments - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch121.zip",
+        "questionCount": 85,
+        "diagramCount": 52,
+        "sizeKB": 7240,
+        "topics": [
+          {
+            "topicId": 1211,
+            "topicName": "Lens Formula",
+            "isHighYield": true,
+            "explanation": "Sign conventions and magnification."
+          },
+          {
+            "topicId": 1212,
+            "topicName": "Optical Instruments",
+            "isHighYield": true,
+            "explanation": "Microscope and telescope magnifying power."
+          }
+        ]
+      },
+      {
+        "chapterId": 122,
+        "chapterName": "Wave Optics",
+        "priority": "high",
+        "summary": "Young's double slit, diffraction - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch122.zip",
+        "questionCount": 72,
+        "diagramCount": 46,
+        "sizeKB": 5980,
+        "topics": [
+          {
+            "topicId": 1221,
+            "topicName": "Young's Double Slit",
+            "isHighYield": true,
+            "explanation": "Fringe width and path difference calculations."
+          },
+          {
+            "topicId": 1222,
+            "topicName": "Diffraction",
+            "isHighYield": false,
+            "explanation": "Single slit diffraction pattern."
+          },
+          {
+            "topicId": 1223,
+            "topicName": "Polarization",
+            "isHighYield": true,
+            "explanation": "Brewster's law and Malus' law."
+          }
+        ]
+      },
+      {
+        "chapterId": 123,
+        "chapterName": "Dual Nature of Radiation and Matter",
+        "priority": "very_high",
+        "summary": "Photoelectric effect, de Broglie wavelength - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch123.zip",
+        "questionCount": 62,
+        "diagramCount": 28,
+        "sizeKB": 3980,
+        "topics": [
+          {
+            "topicId": 1231,
+            "topicName": "Photoelectric Effect",
+            "isHighYield": true,
+            "explanation": "Einstein's equation and stopping potential."
+          },
+          {
+            "topicId": 1232,
+            "topicName": "de Broglie Wavelength",
+            "isHighYield": true,
+            "explanation": "Matter waves and Davisson-Germer experiment."
+          }
+        ]
+      },
+      {
+        "chapterId": 124,
+        "chapterName": "Atoms",
+        "priority": "high",
+        "summary": "Bohr model, hydrogen spectrum - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch124.zip",
+        "questionCount": 55,
+        "diagramCount": 24,
+        "sizeKB": 3420,
+        "topics": [
+          {
+            "topicId": 1241,
+            "topicName": "Bohr Model",
+            "isHighYield": true,
+            "explanation": "Energy levels and radii calculations."
+          },
+          {
+            "topicId": 1242,
+            "topicName": "Hydrogen Spectrum",
+            "isHighYield": true,
+            "explanation": "Spectral series wavelengths."
+          }
+        ]
+      },
+      {
+        "chapterId": 125,
+        "chapterName": "Nuclei",
+        "priority": "high",
+        "summary": "Binding energy, radioactivity - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch125.zip",
+        "questionCount": 60,
+        "diagramCount": 26,
+        "sizeKB": 3780,
+        "topics": [
+          {
+            "topicId": 1251,
+            "topicName": "Binding Energy",
+            "isHighYield": true,
+            "explanation": "Mass defect and stability curve."
+          },
+          {
+            "topicId": 1252,
+            "topicName": "Radioactivity",
+            "isHighYield": true,
+            "explanation": "Decay law and half-life calculations."
+          }
+        ]
+      },
+      {
+        "chapterId": 126,
+        "chapterName": "Semiconductor Electronics",
+        "priority": "very_high",
+        "summary": "Diodes, transistors, logic gates - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch126.zip",
+        "questionCount": 75,
+        "diagramCount": 42,
+        "sizeKB": 5680,
+        "topics": [
+          {
+            "topicId": 1261,
+            "topicName": "Diode",
+            "isHighYield": true,
+            "explanation": "IV characteristics and rectifier circuits."
+          },
+          {
+            "topicId": 1262,
+            "topicName": "Logic Gates",
+            "isHighYield": true,
+            "explanation": "Truth tables and Boolean expressions."
+          }
+        ]
+      },
+      {
+        "chapterId": 127,
+        "chapterName": "Communication Systems",
+        "priority": "high",
+        "summary": "Modulation, bandwidth - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch127.zip",
+        "questionCount": 52,
+        "diagramCount": 24,
+        "sizeKB": 3120,
+        "topics": [
+          {
+            "topicId": 1271,
+            "topicName": "Modulation",
+            "isHighYield": true,
+            "explanation": "AM wave equation and modulation index."
+          }
+        ]
+      }
+    ]
+  }
