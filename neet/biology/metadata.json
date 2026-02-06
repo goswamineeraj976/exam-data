@@ -1,0 +1,1009 @@
+{
+    "subjectId": 3,
+    "subjectName": "Biology",
+    "totalChapters": 45,
+    "chapters": [
+      {
+        "chapterId": 301,
+        "chapterName": "Diversity in Living World",
+        "priority": "high",
+        "summary": "Five kingdom classification, binomial nomenclature - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch301.zip",
+        "questionCount": 65,
+        "diagramCount": 36,
+        "sizeKB": 5120,
+        "topics": [
+          {
+            "topicId": 3011,
+            "topicName": "Taxonomic Categories",
+            "isHighYield": true,
+            "explanation": "Hierarchy: Species → Genus → Family → Order → Class → Phylum → Kingdom."
+          },
+          {
+            "topicId": 3012,
+            "topicName": "Five Kingdom Classification",
+            "isHighYield": true,
+            "explanation": "Whittaker's criteria based on cell structure and nutrition."
+          }
+        ]
+      },
+      {
+        "chapterId": 302,
+        "chapterName": "Biological Classification",
+        "priority": "high",
+        "summary": "Viruses, bacteria, fungi - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch302.zip",
+        "questionCount": 68,
+        "diagramCount": 38,
+        "sizeKB": 5420,
+        "topics": [
+          {
+            "topicId": 3021,
+            "topicName": "Viruses",
+            "isHighYield": true,
+            "explanation": "Structure of TMV, bacteriophage."
+          },
+          {
+            "topicId": 3022,
+            "topicName": "Kingdom Monera",
+            "isHighYield": true,
+            "explanation": "Bacterial shapes and reproduction."
+          }
+        ]
+      },
+      {
+        "chapterId": 303,
+        "chapterName": "Cell: The Unit of Life",
+        "priority": "very_high",
+        "summary": "Cell organelles, cell division - 4-5 questions annually in NEET.",
+        "zipUrl": "chapters/ch303.zip",
+        "questionCount": 85,
+        "diagramCount": 62,
+        "sizeKB": 9840,
+        "topics": [
+          {
+            "topicId": 3031,
+            "topicName": "Mitochondria",
+            "isHighYield": true,
+            "explanation": "Structure and ATP synthesis."
+          },
+          {
+            "topicId": 3032,
+            "topicName": "Cell Division",
+            "isHighYield": true,
+            "explanation": "Mitosis and meiosis stages."
+          }
+        ]
+      },
+      {
+        "chapterId": 304,
+        "chapterName": "Plant Tissues",
+        "priority": "high",
+        "summary": "Meristematic and permanent tissues - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch304.zip",
+        "questionCount": 60,
+        "diagramCount": 42,
+        "sizeKB": 5980,
+        "topics": [
+          {
+            "topicId": 3041,
+            "topicName": "Meristems",
+            "isHighYield": true,
+            "explanation": "Apical, lateral, intercalary types."
+          }
+        ]
+      },
+      {
+        "chapterId": 305,
+        "chapterName": "Anatomy of Flowering Plants",
+        "priority": "very_high",
+        "summary": "Dicot root and stem anatomy - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch305.zip",
+        "questionCount": 78,
+        "diagramCount": 56,
+        "sizeKB": 8640,
+        "topics": [
+          {
+            "topicId": 3051,
+            "topicName": "Dicot Root",
+            "isHighYield": true,
+            "explanation": "Epidermis, cortex, endodermis arrangement."
+          },
+          {
+            "topicId": 3052,
+            "topicName": "Dicot Stem",
+            "isHighYield": true,
+            "explanation": "Vascular bundle arrangement."
+          }
+        ]
+      },
+      {
+        "chapterId": 306,
+        "chapterName": "Morphology of Flowering Plants",
+        "priority": "high",
+        "summary": "Flower structure modifications - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch306.zip",
+        "questionCount": 65,
+        "diagramCount": 48,
+        "sizeKB": 6720,
+        "topics": [
+          {
+            "topicId": 3061,
+            "topicName": "Flower Structure",
+            "isHighYield": true,
+            "explanation": "Calyx, corolla, androecium, gynoecium."
+          }
+        ]
+      },
+      {
+        "chapterId": 307,
+        "chapterName": "Photosynthesis in Higher Plants",
+        "priority": "high",
+        "summary": "C3 and C4 pathways - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch307.zip",
+        "questionCount": 70,
+        "diagramCount": 42,
+        "sizeKB": 6380,
+        "topics": [
+          {
+            "topicId": 3071,
+            "topicName": "C3 and C4 Plants",
+            "isHighYield": true,
+            "explanation": "Kranz anatomy and Hatch-Slack cycle."
+          }
+        ]
+      },
+      {
+        "chapterId": 308,
+        "chapterName": "Respiration in Plants",
+        "priority": "very_high",
+        "summary": "Glycolysis and Krebs cycle - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch308.zip",
+        "questionCount": 72,
+        "diagramCount": 46,
+        "sizeKB": 6720,
+        "topics": [
+          {
+            "topicId": 3081,
+            "topicName": "Glycolysis",
+            "isHighYield": true,
+            "explanation": "Net gain 2 ATP + 2 NADH per glucose."
+          },
+          {
+            "topicId": 3082,
+            "topicName": "Krebs Cycle",
+            "isHighYield": true,
+            "explanation": "3 NADH, 1 FADH₂, 1 ATP per acetyl CoA."
+          }
+        ]
+      },
+      {
+        "chapterId": 309,
+        "chapterName": "Plant Growth and Development",
+        "priority": "high",
+        "summary": "Plant hormones - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch309.zip",
+        "questionCount": 62,
+        "diagramCount": 38,
+        "sizeKB": 5420,
+        "topics": [
+          {
+            "topicId": 3091,
+            "topicName": "Auxins",
+            "isHighYield": true,
+            "explanation": "Apical dominance and phototropism."
+          },
+          {
+            "topicId": 3092,
+            "topicName": "Gibberellins",
+            "isHighYield": true,
+            "explanation": "Seed germination and stem elongation."
+          }
+        ]
+      },
+      {
+        "chapterId": 310,
+        "chapterName": "Principles of Inheritance and Variation",
+        "priority": "very_high",
+        "summary": "Mendel's laws, linkage - 4-5 questions annually in NEET.",
+        "zipUrl": "chapters/ch310.zip",
+        "questionCount": 85,
+        "diagramCount": 52,
+        "sizeKB": 7980,
+        "topics": [
+          {
+            "topicId": 3101,
+            "topicName": "Mendel's Laws",
+            "isHighYield": true,
+            "explanation": "Law of dominance, segregation, independent assortment."
+          },
+          {
+            "topicId": 3102,
+            "topicName": "Linkage",
+            "isHighYield": true,
+            "explanation": "Recombination frequency calculations."
+          }
+        ]
+      },
+      {
+        "chapterId": 311,
+        "chapterName": "Molecular Basis of Inheritance",
+        "priority": "very_high",
+        "summary": "DNA replication, protein synthesis - 4-5 questions annually in NEET.",
+        "zipUrl": "chapters/ch311.zip",
+        "questionCount": 82,
+        "diagramCount": 58,
+        "sizeKB": 8980,
+        "topics": [
+          {
+            "topicId": 3111,
+            "topicName": "DNA Replication",
+            "isHighYield": true,
+            "explanation": "Semi-conservative replication and enzymes."
+          },
+          {
+            "topicId": 3112,
+            "topicName": "Protein Synthesis",
+            "isHighYield": true,
+            "explanation": "Transcription and translation steps."
+          }
+        ]
+      },
+      {
+        "chapterId": 312,
+        "chapterName": "Body Fluids and Circulation",
+        "priority": "very_high",
+        "summary": "Heart structure, blood groups - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch312.zip",
+        "questionCount": 88,
+        "diagramCount": 72,
+        "sizeKB": 11240,
+        "topics": [
+          {
+            "topicId": 3121,
+            "topicName": "Heart Structure",
+            "isHighYield": true,
+            "explanation": "Four chambers, valves, blood vessels."
+          },
+          {
+            "topicId": 3122,
+            "topicName": "ABO Blood Groups",
+            "isHighYield": true,
+            "explanation": "Iᴬ, Iᴮ, i alleles and codominance."
+          }
+        ]
+      },
+      {
+        "chapterId": 313,
+        "chapterName": "Breathing and Exchange of Gases",
+        "priority": "high",
+        "summary": "Respiratory volumes - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch313.zip",
+        "questionCount": 65,
+        "diagramCount": 44,
+        "sizeKB": 6720,
+        "topics": [
+          {
+            "topicId": 3131,
+            "topicName": "Respiratory Volumes",
+            "isHighYield": true,
+            "explanation": "TV, IRV, ERV, RV calculations."
+          }
+        ]
+      },
+      {
+        "chapterId": 314,
+        "chapterName": "Excretory Products and Elimination",
+        "priority": "very_high",
+        "summary": "Nephron structure, urine formation - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch314.zip",
+        "questionCount": 75,
+        "diagramCount": 58,
+        "sizeKB": 9120,
+        "topics": [
+          {
+            "topicId": 3141,
+            "topicName": "Nephron",
+            "isHighYield": true,
+            "explanation": "Bowman's capsule to collecting duct."
+          },
+          {
+            "topicId": 3142,
+            "topicName": "ADH Function",
+            "isHighYield": true,
+            "explanation": "Water reabsorption regulation."
+          }
+        ]
+      },
+      {
+        "chapterId": 315,
+        "chapterName": "Neural Control and Coordination",
+        "priority": "very_high",
+        "summary": "Neuron structure, synapses - 4-5 questions annually in NEET.",
+        "zipUrl": "chapters/ch315.zip",
+        "questionCount": 92,
+        "diagramCount": 76,
+        "sizeKB": 12480,
+        "topics": [
+          {
+            "topicId": 3151,
+            "topicName": "Neuron Structure",
+            "isHighYield": true,
+            "explanation": "Dendrites, axon, myelin sheath."
+          },
+          {
+            "topicId": 3152,
+            "topicName": "Synapse",
+            "isHighYield": true,
+            "explanation": "Chemical synapse neurotransmitters."
+          }
+        ]
+      },
+      {
+        "chapterId": 316,
+        "chapterName": "Chemical Coordination and Integration",
+        "priority": "very_high",
+        "summary": "Hypothalamus, pituitary hormones - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch316.zip",
+        "questionCount": 80,
+        "diagramCount": 62,
+        "sizeKB": 9840,
+        "topics": [
+          {
+            "topicId": 3161,
+            "topicName": "Hypothalamus",
+            "isHighYield": true,
+            "explanation": "Releasing and inhibiting hormones."
+          },
+          {
+            "topicId": 3162,
+            "topicName": "Pituitary Gland",
+            "isHighYield": true,
+            "explanation": "Anterior and posterior lobe hormones."
+          }
+        ]
+      },
+      {
+        "chapterId": 317,
+        "chapterName": "Human Reproduction",
+        "priority": "very_high",
+        "summary": "Gametogenesis, menstrual cycle - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch317.zip",
+        "questionCount": 82,
+        "diagramCount": 68,
+        "sizeKB": 10240,
+        "topics": [
+          {
+            "topicId": 3171,
+            "topicName": "Ovulation",
+            "isHighYield": true,
+            "explanation": "LH surge triggers release of oocyte."
+          },
+          {
+            "topicId": 3172,
+            "topicName": "Menstrual Cycle",
+            "isHighYield": true,
+            "explanation": "Follicular, ovulatory, luteal phases."
+          }
+        ]
+      },
+      {
+        "chapterId": 318,
+        "chapterName": "Reproductive Health",
+        "priority": "high",
+        "summary": "Contraceptive methods - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch318.zip",
+        "questionCount": 60,
+        "diagramCount": 36,
+        "sizeKB": 5280,
+        "topics": [
+          {
+            "topicId": 3181,
+            "topicName": "Contraception",
+            "isHighYield": true,
+            "explanation": "Natural, barrier, hormonal methods."
+          }
+        ]
+      },
+      {
+        "chapterId": 319,
+        "chapterName": "Evolution",
+        "priority": "very_high",
+        "summary": "Darwin's theory, molecular evidence - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch319.zip",
+        "questionCount": 72,
+        "diagramCount": 48,
+        "sizeKB": 7680,
+        "topics": [
+          {
+            "topicId": 3191,
+            "topicName": "Natural Selection",
+            "isHighYield": true,
+            "explanation": "Variation + selection pressure → adaptation."
+          },
+          {
+            "topicId": 3192,
+            "topicName": "Molecular Evidence",
+            "isHighYield": true,
+            "explanation": "DNA sequence homology comparisons."
+          }
+        ]
+      },
+      {
+        "chapterId": 320,
+        "chapterName": "Human Health and Disease",
+        "priority": "very_high",
+        "summary": "Infectious diseases, immunity - 4-5 questions annually in NEET.",
+        "zipUrl": "chapters/ch320.zip",
+        "questionCount": 90,
+        "diagramCount": 74,
+        "sizeKB": 11840,
+        "topics": [
+          {
+            "topicId": 3201,
+            "topicName": "Malaria",
+            "isHighYield": true,
+            "explanation": "Plasmodium life cycle in human and mosquito."
+          },
+          {
+            "topicId": 3202,
+            "topicName": "AIDS",
+            "isHighYield": true,
+            "explanation": "HIV attacks CD4⁺ T-lymphocytes."
+          }
+        ]
+      },
+      {
+        "chapterId": 321,
+        "chapterName": "Strategies for Enhancement in Food Production",
+        "priority": "high",
+        "summary": "Plant breeding, biotechnology - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch321.zip",
+        "questionCount": 62,
+        "diagramCount": 40,
+        "sizeKB": 5980,
+        "topics": [
+          {
+            "topicId": 3211,
+            "topicName": "Green Revolution",
+            "isHighYield": true,
+            "explanation": "High-yielding varieties of wheat and rice."
+          },
+          {
+            "topicId": 3212,
+            "topicName": "Bt Cotton",
+            "isHighYield": true,
+            "explanation": "Bacillus thuringiensis cry gene insertion."
+          }
+        ]
+      },
+      {
+        "chapterId": 322,
+        "chapterName": "Microbes in Human Welfare",
+        "priority": "high",
+        "summary": "Antibiotics, biofertilizers - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch322.zip",
+        "questionCount": 58,
+        "diagramCount": 36,
+        "sizeKB": 5120,
+        "topics": [
+          {
+            "topicId": 3221,
+            "topicName": "Antibiotics",
+            "isHighYield": true,
+            "explanation": "Penicillin from Penicillium."
+          }
+        ]
+      },
+      {
+        "chapterId": 323,
+        "chapterName": "Biotechnology: Principles and Processes",
+        "priority": "very_high",
+        "summary": "rDNA technology, PCR - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch323.zip",
+        "questionCount": 75,
+        "diagramCount": 52,
+        "sizeKB": 8420,
+        "topics": [
+          {
+            "topicId": 3231,
+            "topicName": "rDNA Technology",
+            "isHighYield": true,
+            "explanation": "Plasmid vectors, restriction enzymes."
+          },
+          {
+            "topicId": 3232,
+            "topicName": "PCR",
+            "isHighYield": true,
+            "explanation": "DNA amplification steps."
+          }
+        ]
+      },
+      {
+        "chapterId": 324,
+        "chapterName": "Biotechnology and its Applications",
+        "priority": "high",
+        "summary": "Insulin production, gene therapy - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch324.zip",
+        "questionCount": 65,
+        "diagramCount": 42,
+        "sizeKB": 6720,
+        "topics": [
+          {
+            "topicId": 3241,
+            "topicName": "Insulin Production",
+            "isHighYield": true,
+            "explanation": "Human insulin gene in E. coli."
+          }
+        ]
+      },
+      {
+        "chapterId": 325,
+        "chapterName": "Ecosystem",
+        "priority": "high",
+        "summary": "Energy flow, trophic levels - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch325.zip",
+        "questionCount": 68,
+        "diagramCount": 46,
+        "sizeKB": 7240,
+        "topics": [
+          {
+            "topicId": 3251,
+            "topicName": "10% Law",
+            "isHighYield": true,
+            "explanation": "Energy transfer between trophic levels."
+          }
+        ]
+      },
+      {
+        "chapterId": 326,
+        "chapterName": "Biodiversity and Conservation",
+        "priority": "high",
+        "summary": "Hotspots, IUCN categories - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch326.zip",
+        "questionCount": 62,
+        "diagramCount": 42,
+        "sizeKB": 6580,
+        "topics": [
+          {
+            "topicId": 3261,
+            "topicName": "Indian Hotspots",
+            "isHighYield": true,
+            "explanation": "Western Ghats and Himalayas."
+          },
+          {
+            "topicId": 3262,
+            "topicName": "IUCN Categories",
+            "isHighYield": true,
+            "explanation": "CR, EN, VU classifications."
+          }
+        ]
+      },
+      {
+        "chapterId": 327,
+        "chapterName": "Environmental Issues",
+        "priority": "high",
+        "summary": "Global warming, ozone depletion - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch327.zip",
+        "questionCount": 65,
+        "diagramCount": 44,
+        "sizeKB": 6840,
+        "topics": [
+          {
+            "topicId": 3271,
+            "topicName": "Global Warming",
+            "isHighYield": true,
+            "explanation": "Greenhouse gases and effects."
+          },
+          {
+            "topicId": 3272,
+            "topicName": "Ozone Depletion",
+            "isHighYield": true,
+            "explanation": "CFCs and ozone hole."
+          }
+        ]
+      },
+      {
+        "chapterId": 328,
+        "chapterName": "Cell Cycle and Cell Division",
+        "priority": "very_high",
+        "summary": "Mitosis and meiosis stages - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch328.zip",
+        "questionCount": 78,
+        "diagramCount": 64,
+        "sizeKB": 9680,
+        "topics": [
+          {
+            "topicId": 3281,
+            "topicName": "Mitosis",
+            "isHighYield": true,
+            "explanation": "Prophase, metaphase, anaphase, telophase."
+          },
+          {
+            "topicId": 3282,
+            "topicName": "Meiosis",
+            "isHighYield": true,
+            "explanation": "Reduction division stages."
+          }
+        ]
+      },
+      {
+        "chapterId": 329,
+        "chapterName": "Plant Physiology",
+        "priority": "high",
+        "summary": "Photosynthesis, respiration mechanisms - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch329.zip",
+        "questionCount": 72,
+        "diagramCount": 48,
+        "sizeKB": 7380,
+        "topics": [
+          {
+            "topicId": 3291,
+            "topicName": "C4 Pathway",
+            "isHighYield": true,
+            "explanation": "Hatch-Slack cycle details."
+          }
+        ]
+      },
+      {
+        "chapterId": 330,
+        "chapterName": "Human Physiology (Comprehensive)",
+        "priority": "very_high",
+        "summary": "Digestive, respiratory, circulatory systems - 8-10 questions annually in NEET.",
+        "zipUrl": "chapters/ch330.zip",
+        "questionCount": 105,
+        "diagramCount": 86,
+        "sizeKB": 14240,
+        "topics": [
+          {
+            "topicId": 3301,
+            "topicName": "Digestive System",
+            "isHighYield": true,
+            "explanation": "Enzyme secretion and absorption sites."
+          },
+          {
+            "topicId": 3302,
+            "topicName": "Respiratory System",
+            "isHighYield": true,
+            "explanation": "Gas exchange mechanism."
+          },
+          {
+            "topicId": 3303,
+            "topicName": "Circulatory System",
+            "isHighYield": true,
+            "explanation": "Heart cycle and blood pressure regulation."
+          }
+        ]
+      },
+      {
+        "chapterId": 331,
+        "chapterName": "Immune System",
+        "priority": "very_high",
+        "summary": "Innate and adaptive immunity - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch331.zip",
+        "questionCount": 75,
+        "diagramCount": 58,
+        "sizeKB": 8840,
+        "topics": [
+          {
+            "topicId": 3311,
+            "topicName": "Innate Immunity",
+            "isHighYield": true,
+            "explanation": "Physical barriers and phagocytes."
+          },
+          {
+            "topicId": 3312,
+            "topicName": "Adaptive Immunity",
+            "isHighYield": true,
+            "explanation": "B-cells and T-cells functions."
+          }
+        ]
+      },
+      {
+        "chapterId": 332,
+        "chapterName": "Cancer",
+        "priority": "high",
+        "summary": "Oncogenes, tumor suppressor genes - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch332.zip",
+        "questionCount": 60,
+        "diagramCount": 42,
+        "sizeKB": 6380,
+        "topics": [
+          {
+            "topicId": 3321,
+            "topicName": "Oncogenes",
+            "isHighYield": true,
+            "explanation": "Mutated proto-oncogenes (Ras, Myc)."
+          },
+          {
+            "topicId": 3322,
+            "topicName": "p53 Gene",
+            "isHighYield": true,
+            "explanation": "Tumor suppressor 'guardian of genome'."
+          }
+        ]
+      },
+      {
+        "chapterId": 333,
+        "chapterName": "Human Genetic Disorders",
+        "priority": "very_high",
+        "summary": "Haemophilia, thalassemia - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch333.zip",
+        "questionCount": 70,
+        "diagramCount": 48,
+        "sizeKB": 7240,
+        "topics": [
+          {
+            "topicId": 3331,
+            "topicName": "Haemophilia",
+            "isHighYield": true,
+            "explanation": "X-linked recessive deficiency of clotting factors."
+          },
+          {
+            "topicId": 3332,
+            "topicName": "Thalassemia",
+            "isHighYield": true,
+            "explanation": "Autosomal recessive hemoglobin synthesis defect."
+          }
+        ]
+      },
+      {
+        "chapterId": 334,
+        "chapterName": "Evolution (Advanced)",
+        "priority": "very_high",
+        "summary": "Human evolution, adaptive radiation - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch334.zip",
+        "questionCount": 68,
+        "diagramCount": 46,
+        "sizeKB": 7120,
+        "topics": [
+          {
+            "topicId": 3341,
+            "topicName": "Human Evolution",
+            "isHighYield": true,
+            "explanation": "Homo habilis → Homo erectus → Homo sapiens."
+          },
+          {
+            "topicId": 3342,
+            "topicName": "Adaptive Radiation",
+            "isHighYield": true,
+            "explanation": "Darwin's finches example."
+          }
+        ]
+      },
+      {
+        "chapterId": 335,
+        "chapterName": "Biotechnology Products",
+        "priority": "high",
+        "summary": "Biofertilizers, biopesticides - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch335.zip",
+        "questionCount": 58,
+        "diagramCount": 38,
+        "sizeKB": 5680,
+        "topics": [
+          {
+            "topicId": 3351,
+            "topicName": "Biofertilizers",
+            "isHighYield": true,
+            "explanation": "Rhizobium, Azotobacter nitrogen fixation."
+          }
+        ]
+      },
+      {
+        "chapterId": 336,
+        "chapterName": "Ecology",
+        "priority": "high",
+        "summary": "Biogeochemical cycles - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch336.zip",
+        "questionCount": 65,
+        "diagramCount": 44,
+        "sizeKB": 6720,
+        "topics": [
+          {
+            "topicId": 3361,
+            "topicName": "Nitrogen Cycle",
+            "isHighYield": true,
+            "explanation": "Nitrogen fixation to denitrification steps."
+          }
+        ]
+      },
+      {
+        "chapterId": 337,
+        "chapterName": "Biodiversity",
+        "priority": "high",
+        "summary": "Levels of biodiversity - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch337.zip",
+        "questionCount": 60,
+        "diagramCount": 40,
+        "sizeKB": 6120,
+        "topics": [
+          {
+            "topicId": 3371,
+            "topicName": "Levels of Biodiversity",
+            "isHighYield": true,
+            "explanation": "Genetic, species, ecosystem diversity."
+          }
+        ]
+      },
+      {
+        "chapterId": 338,
+        "chapterName": "Environmental Conservation",
+        "priority": "low",
+        "summary": "National parks, sanctuaries - 1 question annually in NEET.",
+        "zipUrl": "chapters/ch338.zip",
+        "questionCount": 48,
+        "diagramCount": 28,
+        "sizeKB": 4280,
+        "topics": [
+          {
+            "topicId": 3381,
+            "topicName": "Protected Areas",
+            "isHighYield": false,
+            "explanation": "Kaziranga, Sundarbans examples."
+          }
+        ]
+      },
+      {
+        "chapterId": 339,
+        "chapterName": "Biotechnology in Human Welfare",
+        "priority": "high",
+        "summary": "Gene therapy, transgenic animals - 2 questions annually in NEET.",
+        "zipUrl": "chapters/ch339.zip",
+        "questionCount": 62,
+        "diagramCount": 42,
+        "sizeKB": 6480,
+        "topics": [
+          {
+            "topicId": 3391,
+            "topicName": "Gene Therapy",
+            "isHighYield": true,
+            "explanation": "SCID treatment using functional genes."
+          }
+        ]
+      },
+      {
+        "chapterId": 340,
+        "chapterName": "Sexual Reproduction in Flowering Plants",
+        "priority": "high",
+        "summary": "Pollination, fertilization - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch340.zip",
+        "questionCount": 70,
+        "diagramCount": 54,
+        "sizeKB": 8120,
+        "topics": [
+          {
+            "topicId": 3401,
+            "topicName": "Pollination",
+            "isHighYield": true,
+            "explanation": "Self vs cross-pollination mechanisms."
+          },
+          {
+            "topicId": 3402,
+            "topicName": "Double Fertilization",
+            "isHighYield": true,
+            "explanation": "Zygote and endosperm formation."
+          }
+        ]
+      },
+      {
+        "chapterId": 341,
+        "chapterName": "Human Reproduction (Advanced)",
+        "priority": "very_high",
+        "summary": "Embryonic development, pregnancy - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch341.zip",
+        "questionCount": 78,
+        "diagramCount": 64,
+        "sizeKB": 9680,
+        "topics": [
+          {
+            "topicId": 3411,
+            "topicName": "Embryonic Development",
+            "isHighYield": true,
+            "explanation": "Fertilization → cleavage → gastrulation."
+          },
+          {
+            "topicId": 3412,
+            "topicName": "Pregnancy",
+            "isHighYield": true,
+            "explanation": "hCG hormone and placenta formation."
+          }
+        ]
+      },
+      {
+        "chapterId": 342,
+        "chapterName": "Principles of Inheritance (Advanced)",
+        "priority": "very_high",
+        "summary": "Chromosomal disorders - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch342.zip",
+        "questionCount": 72,
+        "diagramCount": 52,
+        "sizeKB": 7920,
+        "topics": [
+          {
+            "topicId": 3421,
+            "topicName": "Down Syndrome",
+            "isHighYield": true,
+            "explanation": "Trisomy 21 characteristics."
+          },
+          {
+            "topicId": 3422,
+            "topicName": "Cri-du-chat Syndrome",
+            "isHighYield": true,
+            "explanation": "Deletion on chromosome 5p."
+          }
+        ]
+      },
+      {
+        "chapterId": 343,
+        "chapterName": "Human Diseases",
+        "priority": "very_high",
+        "summary": "Bacterial and viral diseases - 3-4 questions annually in NEET.",
+        "zipUrl": "chapters/ch343.zip",
+        "questionCount": 85,
+        "diagramCount": 70,
+        "sizeKB": 10640,
+        "topics": [
+          {
+            "topicId": 3431,
+            "topicName": "Typhoid",
+            "isHighYield": true,
+            "explanation": "Salmonella typhi transmission."
+          },
+          {
+            "topicId": 3432,
+            "topicName": "Plague",
+            "isHighYield": true,
+            "explanation": "Yersinia pestis and rat fleas."
+          }
+        ]
+      },
+      {
+        "chapterId": 344,
+        "chapterName": "Ecosystems",
+        "priority": "high",
+        "summary": "Food chains, biomagnification - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch344.zip",
+        "questionCount": 68,
+        "diagramCount": 48,
+        "sizeKB": 7380,
+        "topics": [
+          {
+            "topicId": 3441,
+            "topicName": "Food Chain",
+            "isHighYield": true,
+            "explanation": "Producer → consumer energy transfer."
+          },
+          {
+            "topicId": 3442,
+            "topicName": "Biomagnification",
+            "isHighYield": true,
+            "explanation": "DDT concentration increase up trophic levels."
+          }
+        ]
+      },
+      {
+        "chapterId": 345,
+        "chapterName": "Environmental Pollution",
+        "priority": "high",
+        "summary": "Water and air pollution - 2-3 questions annually in NEET.",
+        "zipUrl": "chapters/ch345.zip",
+        "questionCount": 70,
+        "diagramCount": 52,
+        "sizeKB": 7680,
+        "topics": [
+          {
+            "topicId": 3451,
+            "topicName": "Water Pollution",
+            "isHighYield": true,
+            "explanation": "BOD and COD measurements."
+          },
+          {
+            "topicId": 3452,
+            "topicName": "Air Pollution",
+            "isHighYield": true,
+            "explanation": "PM2.5 and PM10 health impacts."
+          }
+        ]
+      }
+    ]
+  }
