@@ -12,6 +12,10 @@
         "questionCount": 45,
         "diagramCount": 0,
         "sizeKB": 11,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,   
         "topics": [
           {
             "topicId": 1281,
@@ -42,6 +46,10 @@
         "questionCount": 75,
         "diagramCount": 42,
         "sizeKB": 5840,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1031,
@@ -72,6 +80,10 @@
         "questionCount": 72,
         "diagramCount": 38,
         "sizeKB": 5120,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1041,
@@ -102,6 +114,10 @@
         "questionCount": 62,
         "diagramCount": 24,
         "sizeKB": 3420,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1051,
@@ -126,6 +142,10 @@
         "questionCount": 70,
         "diagramCount": 36,
         "sizeKB": 4980,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1061,
@@ -156,6 +176,10 @@
         "questionCount": 58,
         "diagramCount": 22,
         "sizeKB": 3240,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1071,
@@ -180,6 +204,10 @@
         "questionCount": 55,
         "diagramCount": 26,
         "sizeKB": 3420,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1011,
@@ -204,6 +232,10 @@
         "questionCount": 60,
         "diagramCount": 28,
         "sizeKB": 3780,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1021,
@@ -228,6 +260,10 @@
         "questionCount": 62,
         "diagramCount": 26,
         "sizeKB": 3680,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1101,
@@ -252,6 +288,10 @@
         "questionCount": 52,
         "diagramCount": 18,
         "sizeKB": 2980,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1111,
@@ -276,6 +316,10 @@
         "questionCount": 82,
         "diagramCount": 48,
         "sizeKB": 6720,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1091,
@@ -306,6 +350,10 @@
         "questionCount": 75,
         "diagramCount": 38,
         "sizeKB": 5420,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1131,
@@ -330,6 +378,10 @@
         "questionCount": 65,
         "diagramCount": 32,
         "sizeKB": 4380,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1141,
@@ -354,6 +406,10 @@
         "questionCount": 78,
         "diagramCount": 42,
         "sizeKB": 5840,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1151,
@@ -378,6 +434,10 @@
         "questionCount": 65,
         "diagramCount": 36,
         "sizeKB": 4980,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1161,
@@ -402,6 +462,10 @@
         "questionCount": 48,
         "diagramCount": 22,
         "sizeKB": 2840,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1171,
@@ -420,6 +484,10 @@
         "questionCount": 62,
         "diagramCount": 34,
         "sizeKB": 4380,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1181,
@@ -444,6 +512,10 @@
         "questionCount": 60,
         "diagramCount": 32,
         "sizeKB": 4120,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1191,
@@ -468,6 +540,10 @@
         "questionCount": 42,
         "diagramCount": 16,
         "sizeKB": 2180,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1201,
@@ -486,6 +562,10 @@
         "questionCount": 85,
         "diagramCount": 52,
         "sizeKB": 7240,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1211,
@@ -510,6 +590,10 @@
         "questionCount": 72,
         "diagramCount": 46,
         "sizeKB": 5980,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1221,
@@ -540,6 +624,10 @@
         "questionCount": 62,
         "diagramCount": 28,
         "sizeKB": 3980,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1231,
@@ -564,6 +652,10 @@
         "questionCount": 55,
         "diagramCount": 24,
         "sizeKB": 3420,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1241,
@@ -588,6 +680,10 @@
         "questionCount": 60,
         "diagramCount": 26,
         "sizeKB": 3780,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1251,
@@ -612,6 +708,10 @@
         "questionCount": 75,
         "diagramCount": 42,
         "sizeKB": 5680,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1261,
@@ -636,6 +736,10 @@
         "questionCount": 52,
         "diagramCount": 24,
         "sizeKB": 3120,
+        "repeatFrequency": 10,  
+        "totalYearsConsidered": 15, 
+        "estimatedMarksMin": 8, 
+        "estimatedMarksMax": 16,  
         "topics": [
           {
             "topicId": 1271,
