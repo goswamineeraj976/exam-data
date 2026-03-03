@@ -1,759 +1,903 @@
 {
-    "subjectId": 2,
-    "subjectName": "Chemistry",
-    "totalChapters": 30,
-    "chapters": [
-      {
-        "chapterId": 201,
-        "chapterName": "Some Basic Concepts of Chemistry",
-        "priority": "high",
-        "summary": "Mole concept, stoichiometry - 2-3 questions annually in NEET.",
-        "zipUrl": "chemistry/chapters/ch201.zip",
-        "questionCount": 65,
-        "diagramCount": 18,
-        "sizeKB": 3580,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2011,
-            "topicName": "Mole Concept",
-            "isHighYield": true,
-            "explanation": "Avogadro's number and molar mass calculations."
-          },
-          {
-            "topicId": 2012,
-            "topicName": "Stoichiometry",
-            "isHighYield": true,
-            "explanation": "Limiting reagent and % yield problems."
-          }
-        ]
-      },
-      {
-        "chapterId": 202,
-        "chapterName": "Structure of Atom",
-        "priority": "very_high",
-        "summary": "Quantum numbers, electronic configuration - 3-4 questions annually in NEET.",
-        "zipUrl": "chemistry/chapters/ch202.zip",
-        "questionCount": 72,
-        "diagramCount": 28,
-        "sizeKB": 4580,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2021,
-            "topicName": "Quantum Numbers",
-            "isHighYield": true,
-            "explanation": "n, l, m, s values and orbital filling."
-          },
-          {
-            "topicId": 2022,
-            "topicName": "Aufbau Principle",
-            "isHighYield": true,
-            "explanation": "Exceptions in Cr, Cu configurations."
-          }
-        ]
-      },
-      {
-        "chapterId": 204,
-        "chapterName": "Chemical Bonding and Molecular Structure",
-        "priority": "very_high",
-        "summary": "VSEPR theory, hybridization - 3-4 questions annually in NEET.",
-        "zipUrl": "chemistry/chapters/ch204.zip",
-        "questionCount": 78,
-        "diagramCount": 42,
-        "sizeKB": 6120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2041,
-            "topicName": "VSEPR Theory",
-            "isHighYield": true,
-            "explanation": "Molecular geometry prediction."
-          },
-          {
-            "topicId": 2042,
-            "topicName": "Hybridization",
-            "isHighYield": true,
-            "explanation": "sp, sp², sp³ hybrid orbitals."
-          }
-        ]
-      },
-      {
-        "chapterId": 206,
-        "chapterName": "Thermodynamics",
-        "priority": "high",
-        "summary": "First and second laws - 2-3 questions annually in NEET.",
-        "zipUrl": "chemistry/chapters/ch206.zip",
-        "questionCount": 68,
-        "diagramCount": 26,
-        "sizeKB": 4120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2061,
-            "topicName": "First Law",
-            "isHighYield": true,
-            "explanation": "ΔU = q + w sign conventions."
-          },
-          {
-            "topicId": 2062,
-            "topicName": "Second Law",
-            "isHighYield": true,
-            "explanation": "ΔG = ΔH - TΔS spontaneity criteria."
-          }
-        ]
-      },
-      {
-        "chapterId": 221,
-        "chapterName": "Solutions",
-        "priority": "high",
-        "summary": "Concentration terms, colligative properties - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch221.zip",
-        "questionCount": 65,
-        "diagramCount": 24,
-        "sizeKB": 3980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2211,
-            "topicName": "Colligative Properties",
-            "isHighYield": true,
-            "explanation": "Relative lowering, elevation, depression calculations."
-          },
-          {
-            "topicId": 2212,
-            "topicName": "van't Hoff Factor",
-            "isHighYield": true,
-            "explanation": "Association/dissociation effects."
-          }
-        ]
-      },
-      {
-        "chapterId": 207,
-        "chapterName": "Equilibrium",
-        "priority": "very_high",
-        "summary": "Le Chatelier's principle, pH calculations - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch207.zip",
-        "questionCount": 75,
-        "diagramCount": 32,
-        "sizeKB": 4980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2071,
-            "topicName": "Le Chatelier's Principle",
-            "isHighYield": true,
-            "explanation": "Effect of concentration, pressure, temperature."
-          },
-          {
-            "topicId": 2072,
-            "topicName": "pH Calculations",
-            "isHighYield": true,
-            "explanation": "Buffer solutions and hydrolysis."
-          }
-        ]
-      },
-      {
-        "chapterId": 208,
-        "chapterName": "Redox Reactions",
-        "priority": "high",
-        "summary": "Oxidation numbers, balancing - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch208.zip",
-        "questionCount": 58,
-        "diagramCount": 18,
-        "sizeKB": 3240,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2081,
-            "topicName": "Oxidation Number",
-            "isHighYield": true,
-            "explanation": "Rules for assigning oxidation states."
-          }
-        ]
-      },
-      {
-        "chapterId": 224,
-        "chapterName": "Electrochemistry",
-        "priority": "very_high",
-        "summary": "Nernst equation, Faraday's laws - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch224.zip",
-        "questionCount": 72,
-        "diagramCount": 36,
-        "sizeKB": 5280,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2241,
-            "topicName": "Nernst Equation",
-            "isHighYield": true,
-            "explanation": "E = E° - (RT/nF) ln Q calculations."
-          },
-          {
-            "topicId": 2242,
-            "topicName": "Faraday's Laws",
-            "isHighYield": true,
-            "explanation": "Electrolysis mass deposition."
-          }
-        ]
-      },
-      {
-        "chapterId": 225,
-        "chapterName": "Chemical Kinetics",
-        "priority": "high",
-        "summary": "Rate laws, order of reaction - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch225.zip",
-        "questionCount": 62,
-        "diagramCount": 28,
-        "sizeKB": 3980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2251,
-            "topicName": "Rate Laws",
-            "isHighYield": true,
-            "explanation": "Differential and integrated rate equations."
-          },
-          {
-            "topicId": 2252,
-            "topicName": "Half-Life",
-            "isHighYield": true,
-            "explanation": "First order t½ = 0.693/k."
-          }
-        ]
-      },
-      {
-        "chapterId": 203,
-        "chapterName": "Classification of Elements and Periodicity",
-        "priority": "high",
-        "summary": "Periodic trends - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch203.zip",
-        "questionCount": 60,
-        "diagramCount": 22,
-        "sizeKB": 3420,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2031,
-            "topicName": "Periodic Trends",
-            "isHighYield": true,
-            "explanation": "Atomic radius, ionization enthalpy trends."
-          }
-        ]
-      },
-      {
-        "chapterId": 211,
-        "chapterName": "p-Block Elements (Groups 13-14)",
-        "priority": "very_high",
-        "summary": "Boron and carbon families - 4-5 questions annually in NEET.",
-        "zipUrl": "chapters/ch211.zip",
-        "questionCount": 82,
-        "diagramCount": 46,
-        "sizeKB": 6720,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2111,
-            "topicName": "Boron Family",
-            "isHighYield": true,
-            "explanation": "Electron deficiency and back bonding."
-          },
-          {
-            "topicId": 2112,
-            "topicName": "Carbon Family",
-            "isHighYield": true,
-            "explanation": "Catenation and allotropes."
-          }
-        ]
-      },
-      {
-        "chapterId": 228,
-        "chapterName": "p-Block Elements (Groups 15-18)",
-        "priority": "very_high",
-        "summary": "Nitrogen family, noble gases - 4-5 questions annually in NEET.",
-        "zipUrl": "chapters/ch228.zip",
-        "questionCount": 80,
-        "diagramCount": 44,
-        "sizeKB": 6580,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2281,
-            "topicName": "Nitrogen Family",
-            "isHighYield": true,
-            "explanation": "Oxidation states and hydrides."
-          },
-          {
-            "topicId": 2282,
-            "topicName": "Noble Gases",
-            "isHighYield": true,
-            "explanation": "Xe compounds formation."
-          }
-        ]
-      },
-      {
-        "chapterId": 212,
-        "chapterName": "d- and f-Block Elements",
-        "priority": "high",
-        "summary": "Transition elements properties - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch212.zip",
-        "questionCount": 68,
-        "diagramCount": 32,
-        "sizeKB": 4680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2121,
-            "topicName": "Transition Elements",
-            "isHighYield": true,
-            "explanation": "Variable oxidation states and color."
-          },
-          {
-            "topicId": 2122,
-            "topicName": "Lanthanoid Contraction",
-            "isHighYield": false,
-            "explanation": "Effect on 5d series properties."
-          }
-        ]
-      },
-      {
-        "chapterId": 213,
-        "chapterName": "Coordination Compounds",
-        "priority": "very_high",
-        "summary": "IUPAC nomenclature, isomerism - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch213.zip",
-        "questionCount": 70,
-        "diagramCount": 40,
-        "sizeKB": 5420,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2131,
-            "topicName": "IUPAC Nomenclature",
-            "isHighYield": true,
-            "explanation": "Ligand naming order and oxidation state."
-          },
-          {
-            "topicId": 2132,
-            "topicName": "Isomerism",
-            "isHighYield": true,
-            "explanation": "Structural and stereoisomerism types."
-          }
-        ]
-      },
-      {
-        "chapterId": 229,
-        "chapterName": "Organic Chemistry - Basic Principles",
-        "priority": "high",
-        "summary": "IUPAC naming, electronic effects - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch229.zip",
-        "questionCount": 65,
-        "diagramCount": 38,
-        "sizeKB": 4980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2291,
-            "topicName": "IUPAC Nomenclature",
-            "isHighYield": true,
-            "explanation": "Functional group priority rules."
-          },
-          {
-            "topicId": 2292,
-            "topicName": "Electronic Effects",
-            "isHighYield": true,
-            "explanation": "Inductive, resonance, hyperconjugation."
-          }
-        ]
-      },
-      {
-        "chapterId": 214,
-        "chapterName": "Haloalkanes and Haloarenes",
-        "priority": "high",
-        "summary": "SN1/SN2 reactions - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch214.zip",
-        "questionCount": 68,
-        "diagramCount": 36,
-        "sizeKB": 5120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2141,
-            "topicName": "SN1 Reaction",
-            "isHighYield": true,
-            "explanation": "Carbocation stability and racemization."
-          },
-          {
-            "topicId": 2142,
-            "topicName": "SN2 Reaction",
-            "isHighYield": true,
-            "explanation": "Stereochemistry and steric effects."
-          }
-        ]
-      },
-      {
-        "chapterId": 215,
-        "chapterName": "Alcohols, Phenols and Ethers",
-        "priority": "very_high",
-        "summary": "Lucas test, acidity - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch215.zip",
-        "questionCount": 75,
-        "diagramCount": 42,
-        "sizeKB": 5980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2151,
-            "topicName": "Lucas Test",
-            "isHighYield": true,
-            "explanation": "Distinguishing 1°, 2°, 3° alcohols."
-          },
-          {
-            "topicId": 2152,
-            "topicName": "Acidity of Phenols",
-            "isHighYield": true,
-            "explanation": "Resonance stabilization of phenoxide ion."
-          }
-        ]
-      },
-      {
-        "chapterId": 216,
-        "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
-        "priority": "very_high",
-        "summary": "Nucleophilic addition, acidity - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch216.zip",
-        "questionCount": 82,
-        "diagramCount": 48,
-        "sizeKB": 6840,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2161,
-            "topicName": "Nucleophilic Addition",
-            "isHighYield": true,
-            "explanation": "HCN, NaHSO₃ addition mechanisms."
-          },
-          {
-            "topicId": 2162,
-            "topicName": "Acidity",
-            "isHighYield": true,
-            "explanation": "Electron-withdrawing group effects."
-          }
-        ]
-      },
-      {
-        "chapterId": 217,
-        "chapterName": "Amines",
-        "priority": "high",
-        "summary": "Basicity, Hinsberg test - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch217.zip",
-        "questionCount": 62,
-        "diagramCount": 32,
-        "sizeKB": 4380,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2171,
-            "topicName": "Basicity",
-            "isHighYield": true,
-            "explanation": "Aliphatic vs aromatic amine comparison."
-          },
-          {
-            "topicId": 2172,
-            "topicName": "Hinsberg Test",
-            "isHighYield": true,
-            "explanation": "Distinguishing 1°, 2°, 3° amines."
-          }
-        ]
-      },
-      {
-        "chapterId": 218,
-        "chapterName": "Biomolecules",
-        "priority": "very_high",
-        "summary": "Proteins, carbohydrates - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch218.zip",
-        "questionCount": 72,
-        "diagramCount": 40,
-        "sizeKB": 5680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2181,
-            "topicName": "Proteins",
-            "isHighYield": true,
-            "explanation": "Primary to quaternary structure."
-          },
-          {
-            "topicId": 2182,
-            "topicName": "Carbohydrates",
-            "isHighYield": true,
-            "explanation": "Glucose structure and glycosidic linkage."
-          }
-        ]
-      },
-      {
-        "chapterId": 219,
-        "chapterName": "Polymers",
-        "priority": "high",
-        "summary": "Natural and synthetic polymers - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch219.zip",
-        "questionCount": 58,
-        "diagramCount": 30,
-        "sizeKB": 4120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2191,
-            "topicName": "Classification",
-            "isHighYield": true,
-            "explanation": "Addition vs condensation polymers."
-          }
-        ]
-      },
-      {
-        "chapterId": 220,
-        "chapterName": "Chemistry in Everyday Life",
-        "priority": "low",
-        "summary": "Drugs classification - 1-2 questions annually in NEET.",
-        "zipUrl": "chapters/ch220.zip",
-        "questionCount": 45,
-        "diagramCount": 18,
-        "sizeKB": 2680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2201,
-            "topicName": "Drug Classification",
-            "isHighYield": false,
-            "explanation": "Analgesics, antibiotics types."
-          }
-        ]
-      },
-      {
-        "chapterId": 222,
-        "chapterName": "Solid State",
-        "priority": "high",
-        "summary": "Crystal structures, defects - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch222.zip",
-        "questionCount": 60,
-        "diagramCount": 32,
-        "sizeKB": 4380,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2221,
-            "topicName": "Crystal Structures",
-            "isHighYield": true,
-            "explanation": "FCC, BCC unit cell calculations."
-          },
-          {
-            "topicId": 2222,
-            "topicName": "Defects",
-            "isHighYield": true,
-            "explanation": "Schottky and Frenkel defects."
-          }
-        ]
-      },
-      {
-        "chapterId": 223,
-        "chapterName": "Surface Chemistry",
-        "priority": "high",
-        "summary": "Adsorption isotherms - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch223.zip",
-        "questionCount": 55,
-        "diagramCount": 26,
-        "sizeKB": 3580,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2231,
-            "topicName": "Adsorption",
-            "isHighYield": true,
-            "explanation": "Freundlich and Langmuir isotherms."
-          }
-        ]
-      },
-      {
-        "chapterId": 226,
-        "chapterName": "General Principles of Metallurgy",
-        "priority": "low",
-        "summary": "Extraction processes - 1 question annually in NEET.",
-        "zipUrl": "chapters/ch226.zip",
-        "questionCount": 48,
-        "diagramCount": 22,
-        "sizeKB": 2980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2261,
-            "topicName": "Ellingham Diagrams",
-            "isHighYield": false,
-            "explanation": "Feasibility of metal oxide reduction."
-          }
-        ]
-      },
-      {
-        "chapterId": 227,
-        "chapterName": "Environmental Chemistry",
-        "priority": "low",
-        "summary": "Pollution types - 1 question annually in NEET.",
-        "zipUrl": "chapters/ch227.zip",
-        "questionCount": 42,
-        "diagramCount": 16,
-        "sizeKB": 2480,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2271,
-            "topicName": "Pollution",
-            "isHighYield": false,
-            "explanation": "Greenhouse effect and ozone depletion."
-          }
-        ]
-      },
-      {
-        "chapterId": 209,
-        "chapterName": "Hydrogen",
-        "priority": "low",
-        "summary": "Properties of hydrogen - 1 question annually in NEET.",
-        "zipUrl": "chapters/ch209.zip",
-        "questionCount": 40,
-        "diagramCount": 12,
-        "sizeKB": 2180,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2091,
-            "topicName": "Isotopes",
-            "isHighYield": false,
-            "explanation": "Protium, deuterium, tritium properties."
-          }
-        ]
-      },
-      {
-        "chapterId": 210,
-        "chapterName": "s-Block Elements",
-        "priority": "high",
-        "summary": "Alkali and alkaline earth metals - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch210.zip",
-        "questionCount": 55,
-        "diagramCount": 20,
-        "sizeKB": 3120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2101,
-            "topicName": "Alkali Metals",
-            "isHighYield": true,
-            "explanation": "Anomalous behavior of lithium."
-          }
-        ]
-      },
-      {
-        "chapterId": 230,
-        "chapterName": "Practical Chemistry",
-        "priority": "low",
-        "summary": "Qualitative analysis - 1 question annually in NEET.",
-        "zipUrl": "chapters/ch230.zip",
-        "questionCount": 38,
-        "diagramCount": 14,
-        "sizeKB": 2280,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 2301,
-            "topicName": "Salt Analysis",
-            "isHighYield": false,
-            "explanation": "Cation and anion detection tests."
-          }
-        ]
-      }
-    ]
-  }
+  "subjectId": 2,
+  "subjectName": "Chemistry",
+  "totalChapters": 20,
+  "chapters": [
+    {
+      "chapterId": 201,
+      "chapterName": "Some Basic Concepts in Chemistry",
+      "priority": "high",
+      "summary": "Mole concept, stoichiometry, laws of chemical combination — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch201.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 20101,
+          "topicName": "Matter and Dalton's Atomic Theory",
+          "isHighYield": false,
+          "explanation": "Nature of matter; Dalton's atomic theory; concept of atom, molecule, element, compound."
+        },
+        {
+          "topicId": 20102,
+          "topicName": "Laws of Chemical Combination",
+          "isHighYield": true,
+          "explanation": "Law of conservation of mass, constant proportions, multiple proportions, reciprocal proportions, Gay-Lussac's law of gaseous volumes."
+        },
+        {
+          "topicId": 20103,
+          "topicName": "Atomic and Molecular Masses",
+          "isHighYield": true,
+          "explanation": "Atomic mass units; molecular mass; formula mass; average atomic mass."
+        },
+        {
+          "topicId": 20104,
+          "topicName": "Mole Concept and Molar Mass",
+          "isHighYield": true,
+          "explanation": "Avogadro's number; mole as a counting unit; molar mass; interconversion of moles, mass, and number of particles."
+        },
+        {
+          "topicId": 20105,
+          "topicName": "Percentage Composition and Empirical/Molecular Formulae",
+          "isHighYield": true,
+          "explanation": "% composition from molecular formula; empirical formula from % composition; relation between empirical and molecular formula."
+        },
+        {
+          "topicId": 20106,
+          "topicName": "Stoichiometry",
+          "isHighYield": true,
+          "explanation": "Balancing chemical equations; stoichiometric calculations; limiting reagent; percentage yield; reactions in solution (molarity)."
+        }
+      ]
+    },
+    {
+      "chapterId": 202,
+      "chapterName": "Atomic Structure",
+      "priority": "very_high",
+      "summary": "Quantum numbers, electronic configuration, Bohr model — 3-4 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch202.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 20201,
+          "topicName": "EM Radiation and Photoelectric Effect",
+          "isHighYield": true,
+          "explanation": "Nature of EM radiation; wave properties; photoelectric effect (connects to Physics Unit 17 as well)."
+        },
+        {
+          "topicId": 20202,
+          "topicName": "Bohr Model of Hydrogen Atom",
+          "isHighYield": true,
+          "explanation": "Postulates; derivation of energy of electron and radii of orbits; hydrogen spectrum (spectral series); limitations of Bohr's model."
+        },
+        {
+          "topicId": 20203,
+          "topicName": "Dual Nature and Heisenberg's Uncertainty Principle",
+          "isHighYield": true,
+          "explanation": "de Broglie relation (λ = h/mv); Heisenberg's uncertainty principle (Δx·Δp ≥ h/4π)."
+        },
+        {
+          "topicId": 20204,
+          "topicName": "Quantum Mechanical Model of Atom",
+          "isHighYield": true,
+          "explanation": "Quantum mechanics approach; atomic orbitals as one-electron wave functions; variation of ψ and ψ² with r for 1s and 2s; probability density."
+        },
+        {
+          "topicId": 20205,
+          "topicName": "Quantum Numbers",
+          "isHighYield": true,
+          "explanation": "Principal (n), azimuthal (l), magnetic (m) and spin (s) quantum numbers; significance; permissible values; shapes of s, p, d orbitals."
+        },
+        {
+          "topicId": 20206,
+          "topicName": "Electronic Configuration",
+          "isHighYield": true,
+          "explanation": "Aufbau principle; Pauli's exclusion principle; Hund's rule; filling order; extra stability of half-filled and completely filled orbitals (Cr, Cu exceptions)."
+        }
+      ]
+    },
+    {
+      "chapterId": 203,
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "priority": "very_high",
+      "summary": "VSEPR, hybridization, MOT — 3-4 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch203.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 20301,
+          "topicName": "Ionic Bonding",
+          "isHighYield": true,
+          "explanation": "Kossel-Lewis approach; formation of ionic bonds; factors affecting formation; lattice enthalpy calculation."
+        },
+        {
+          "topicId": 20302,
+          "topicName": "Covalent Bonding and Fajan's Rule",
+          "isHighYield": true,
+          "explanation": "Electronegativity; Fajan's rules for polarisation; dipole moment; polar and non-polar molecules."
+        },
+        {
+          "topicId": 20303,
+          "topicName": "VSEPR Theory",
+          "isHighYield": true,
+          "explanation": "Valence shell electron pair repulsion; predicting shapes of molecules (linear, trigonal planar, tetrahedral, pyramidal, bent, octahedral etc.)."
+        },
+        {
+          "topicId": 20304,
+          "topicName": "Valence Bond Theory and Hybridisation",
+          "isHighYield": true,
+          "explanation": "VBT features; hybridization involving s, p, d orbitals (sp, sp², sp³, sp³d, sp³d²); geometry and bond angles; resonance."
+        },
+        {
+          "topicId": 20305,
+          "topicName": "Molecular Orbital Theory",
+          "isHighYield": true,
+          "explanation": "MOT features; LCAOs; bonding and antibonding MOs; sigma and pi bonds; MO electronic configurations of homonuclear diatomics (H₂ to Ne₂); bond order, bond length, bond energy; paramagnetic/diamagnetic character."
+        },
+        {
+          "topicId": 20306,
+          "topicName": "Metallic and Hydrogen Bonding",
+          "isHighYield": true,
+          "explanation": "Elementary idea of metallic bonding; hydrogen bonding (intermolecular and intramolecular); effect on physical properties and applications."
+        }
+      ]
+    },
+    {
+      "chapterId": 204,
+      "chapterName": "Chemical Thermodynamics",
+      "priority": "high",
+      "summary": "First and second laws, Gibbs energy, Hess's law — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch204.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 20401,
+          "topicName": "Basic Thermodynamic Concepts",
+          "isHighYield": true,
+          "explanation": "System, surroundings, boundary; extensive vs intensive properties; state functions (U, H, S, G); types of processes (isothermal, adiabatic, reversible, irreversible)."
+        },
+        {
+          "topicId": 20402,
+          "topicName": "First Law of Thermodynamics",
+          "isHighYield": true,
+          "explanation": "Internal energy; heat (q) and work (w); ΔU = q + w; enthalpy H = U + PV; ΔH at constant pressure; heat capacity (Cv, Cp); molar heat capacity."
+        },
+        {
+          "topicId": 20403,
+          "topicName": "Hess's Law and Thermochemistry",
+          "isHighYield": true,
+          "explanation": "Hess's law of constant heat summation; standard enthalpies of bond dissociation, combustion, formation, atomization, sublimation, phase transition, hydration, ionization, and solution."
+        },
+        {
+          "topicId": 20404,
+          "topicName": "Second Law and Gibbs Energy",
+          "isHighYield": true,
+          "explanation": "Spontaneity criteria; entropy (ΔS); ΔS of universe; Gibbs energy ΔG = ΔH - TΔS; standard Gibbs energy (ΔG°) and equilibrium constant (ΔG° = -RT ln K)."
+        }
+      ]
+    },
+    {
+      "chapterId": 205,
+      "chapterName": "Solutions",
+      "priority": "high",
+      "summary": "Concentration terms, Raoult's law, colligative properties, van't Hoff factor — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch205.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 20501,
+          "topicName": "Concentration of Solutions",
+          "isHighYield": true,
+          "explanation": "Molality, molarity, mole fraction, normality, % by volume and % by mass; interconversions."
+        },
+        {
+          "topicId": 20502,
+          "topicName": "Raoult's Law and Vapour Pressure",
+          "isHighYield": true,
+          "explanation": "Raoult's law; ideal and non-ideal solutions; positive and negative deviations; vapour pressure-composition plots; azeotropes."
+        },
+        {
+          "topicId": 20503,
+          "topicName": "Colligative Properties",
+          "isHighYield": true,
+          "explanation": "Relative lowering of vapour pressure; elevation of boiling point (ΔTb = Kb × m); depression of freezing point (ΔTf = Kf × m); osmotic pressure (π = CRT); determination of molecular mass."
+        },
+        {
+          "topicId": 20504,
+          "topicName": "van't Hoff Factor",
+          "isHighYield": true,
+          "explanation": "Abnormal molar mass; van't Hoff factor (i); effect of association and dissociation on colligative properties."
+        }
+      ]
+    },
+    {
+      "chapterId": 206,
+      "chapterName": "Equilibrium",
+      "priority": "very_high",
+      "summary": "Le Chatelier's principle, pH, buffer, Ksp — 3-4 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch206.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 20601,
+          "topicName": "Concept of Equilibrium",
+          "isHighYield": false,
+          "explanation": "Dynamic equilibrium; physical process equilibria (solid-liquid, liquid-gas, solid-gas); Henry's law."
+        },
+        {
+          "topicId": 20602,
+          "topicName": "Chemical Equilibrium and Equilibrium Constants",
+          "isHighYield": true,
+          "explanation": "Law of chemical equilibrium; Kc and Kp expressions; relationship between Kp and Kc; ΔG and ΔG° in equilibrium; reaction quotient (Q)."
+        },
+        {
+          "topicId": 20603,
+          "topicName": "Le Chatelier's Principle",
+          "isHighYield": true,
+          "explanation": "Effect of concentration, pressure, temperature, and catalyst on equilibrium position; applications (Haber process, Contact process)."
+        },
+        {
+          "topicId": 20604,
+          "topicName": "Ionic Equilibrium and Acids-Bases",
+          "isHighYield": true,
+          "explanation": "Ionization of electrolytes; Arrhenius, Bronsted-Lowry, Lewis concepts; ionization constants (Ka, Kb); ionization of water; pH scale; multistage ionization."
+        },
+        {
+          "topicId": 20605,
+          "topicName": "pH Calculations and Hydrolysis",
+          "isHighYield": true,
+          "explanation": "pH of strong/weak acids and bases; common ion effect; hydrolysis of salts; pH of salt solutions."
+        },
+        {
+          "topicId": 20606,
+          "topicName": "Buffer Solutions and Solubility Product",
+          "isHighYield": true,
+          "explanation": "Buffer solutions (Henderson-Hasselbalch equation); solubility of sparingly soluble salts; Ksp and its applications; selective precipitation."
+        }
+      ]
+    },
+    {
+      "chapterId": 207,
+      "chapterName": "Redox Reactions and Electrochemistry",
+      "priority": "very_high",
+      "summary": "Nernst equation, Faraday's laws, conductance, electrochemical cells — 3-4 questions annually in NEET. Official syllabus combines Redox and Electrochemistry into one unit.",
+      "zipUrl": "chemistry/chapters/ch207.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 20701,
+          "topicName": "Oxidation Number and Balancing Redox Reactions",
+          "isHighYield": true,
+          "explanation": "Electronic concepts of oxidation/reduction; oxidation number rules; balancing by oxidation number method and ion-electron (half-reaction) method."
+        },
+        {
+          "topicId": 20702,
+          "topicName": "Electrolytic Conduction",
+          "isHighYield": true,
+          "explanation": "Electrolytic vs metallic conduction; conductance, conductivity, molar conductivity; variation with concentration; Kohlrausch's law and applications (limiting molar conductivity, degree of ionization)."
+        },
+        {
+          "topicId": 20703,
+          "topicName": "Electrochemical Cells and EMF",
+          "isHighYield": true,
+          "explanation": "Galvanic and electrolytic cells; electrode types; standard electrode potential (SHE reference); half-cell and full cell reactions; EMF of galvanic cell measurement; cell notation."
+        },
+        {
+          "topicId": 20704,
+          "topicName": "Nernst Equation",
+          "isHighYield": true,
+          "explanation": "Nernst equation: E = E° - (RT/nF) ln Q; calculation of cell EMF at non-standard conditions; relationship between E_cell and ΔG; ΔG = -nFE."
+        },
+        {
+          "topicId": 20705,
+          "topicName": "Faraday's Laws of Electrolysis",
+          "isHighYield": true,
+          "explanation": "First and second laws of electrolysis; mass deposited calculations; Faraday's constant; applications."
+        },
+        {
+          "topicId": 20706,
+          "topicName": "Commercial Cells",
+          "isHighYield": true,
+          "explanation": "Dry cell (Leclanche cell); lead storage battery; fuel cells (H₂-O₂ fuel cell); working and reactions."
+        }
+      ]
+    },
+    {
+      "chapterId": 208,
+      "chapterName": "Chemical Kinetics",
+      "priority": "high",
+      "summary": "Rate laws, order of reaction, Arrhenius equation, half-life — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch208.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 20801,
+          "topicName": "Rate of Reaction and Factors",
+          "isHighYield": true,
+          "explanation": "Average and instantaneous rate; factors affecting rate (concentration, temperature, pressure, catalyst); rate expression."
+        },
+        {
+          "topicId": 20802,
+          "topicName": "Order and Molecularity",
+          "isHighYield": true,
+          "explanation": "Elementary and complex reactions; order vs molecularity; rate law; rate constant and its units; determining order from data."
+        },
+        {
+          "topicId": 20803,
+          "topicName": "Integrated Rate Equations",
+          "isHighYield": true,
+          "explanation": "Differential and integrated forms of zero and first order reactions; characteristics; half-life (t½ = 0.693/k for first order)."
+        },
+        {
+          "topicId": 20804,
+          "topicName": "Arrhenius Equation and Activation Energy",
+          "isHighYield": true,
+          "explanation": "Effect of temperature on rate; Arrhenius equation k = Ae^(-Ea/RT); activation energy calculation from slope of ln k vs 1/T; collision theory of bimolecular gaseous reactions (no derivation)."
+        }
+      ]
+    },
+    {
+      "chapterId": 209,
+      "chapterName": "Classification of Elements and Periodicity in Properties",
+      "priority": "high",
+      "summary": "Periodic trends — 2 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch209.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 8,
+      "topics": [
+        {
+          "topicId": 20901,
+          "topicName": "Modern Periodic Law and the Periodic Table",
+          "isHighYield": true,
+          "explanation": "Modern periodic law; present form of periodic table; s, p, d, f block classification; periods and groups."
+        },
+        {
+          "topicId": 20902,
+          "topicName": "Periodic Trends in Properties",
+          "isHighYield": true,
+          "explanation": "Atomic and ionic radii (across period and down group); ionization enthalpy (1st, 2nd IE); electron gain enthalpy; electronegativity; valence and oxidation states; chemical reactivity trends."
+        }
+      ]
+    },
+    {
+      "chapterId": 210,
+      "chapterName": "p-Block Elements",
+      "priority": "very_high",
+      "summary": "Groups 13 to 18 — 4-5 questions annually in NEET. One single unit covers all p-block groups 13–18 in official NEET 2026 syllabus.",
+      "zipUrl": "chemistry/chapters/ch210.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 16,
+      "estimatedMarksMax": 20,
+      "topics": [
+        {
+          "topicId": 21001,
+          "topicName": "General Trends in p-Block Elements",
+          "isHighYield": true,
+          "explanation": "Electronic configuration; general trends in physical and chemical properties across periods and down groups; unique behaviour of the first element in each group (anomalous properties)."
+        },
+        {
+          "topicId": 21002,
+          "topicName": "Group 13 — Boron Family",
+          "isHighYield": true,
+          "explanation": "Properties of boron and aluminium; electron deficiency; back bonding in BF₃; borax, boric acid; diborane; alums."
+        },
+        {
+          "topicId": 21003,
+          "topicName": "Group 14 — Carbon Family",
+          "isHighYield": true,
+          "explanation": "Allotropes of carbon (diamond, graphite, fullerene); catenation; oxides of carbon (CO, CO₂); silicates; silicon carbide."
+        },
+        {
+          "topicId": 21004,
+          "topicName": "Group 15 — Nitrogen Family",
+          "isHighYield": true,
+          "explanation": "Properties; oxidation states; hydrides (NH₃, PH₃); oxoacids of nitrogen and phosphorus; allotropes of phosphorus."
+        },
+        {
+          "topicId": 21005,
+          "topicName": "Group 16 — Oxygen Family",
+          "isHighYield": true,
+          "explanation": "Properties; allotropes of sulphur; hydrides (H₂O, H₂S); oxoacids of sulphur (H₂SO₄, H₂SO₃)."
+        },
+        {
+          "topicId": 21006,
+          "topicName": "Group 17 — Halogens",
+          "isHighYield": true,
+          "explanation": "Properties; oxidising power trend; halogen acids (HF, HCl, HBr, HI); interhalogen compounds; oxoacids of chlorine."
+        },
+        {
+          "topicId": 21007,
+          "topicName": "Group 18 — Noble Gases",
+          "isHighYield": true,
+          "explanation": "Electronic configuration; inertness; xenon compounds (XeF₂, XeF₄, XeF₆, XeO₃); uses."
+        }
+      ]
+    },
+    {
+      "chapterId": 211,
+      "chapterName": "d- and f-Block Elements",
+      "priority": "high",
+      "summary": "Transition elements, KMnO₄, K₂Cr₂O₇, lanthanoids — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch211.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 21101,
+          "topicName": "Transition Elements — General Properties",
+          "isHighYield": true,
+          "explanation": "Electronic configuration; general trends in first-row transition elements: physical properties, ionization enthalpy, variable oxidation states, atomic radii, colour, catalytic behaviour, magnetic properties, complex formation, interstitial compounds, alloy formation."
+        },
+        {
+          "topicId": 21102,
+          "topicName": "Important Compounds: K₂Cr₂O₇ and KMnO₄",
+          "isHighYield": true,
+          "explanation": "Preparation, properties and uses of potassium dichromate (K₂Cr₂O₇) and potassium permanganate (KMnO₄); oxidising reactions in acidic medium."
+        },
+        {
+          "topicId": 21103,
+          "topicName": "Lanthanoids",
+          "isHighYield": true,
+          "explanation": "Electronic configuration; oxidation states; lanthanoid contraction and its consequences on properties of 5d series."
+        },
+        {
+          "topicId": 21104,
+          "topicName": "Actinoids",
+          "isHighYield": false,
+          "explanation": "Electronic configuration; oxidation states; comparison with lanthanoids."
+        }
+      ]
+    },
+    {
+      "chapterId": 212,
+      "chapterName": "Co-ordination Compounds",
+      "priority": "very_high",
+      "summary": "IUPAC nomenclature, isomerism, CFT — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch212.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 21201,
+          "topicName": "Werner's Theory and Basic Concepts",
+          "isHighYield": true,
+          "explanation": "Werner's theory; ligands (types: mono/bi/polydentate, chelating, ambidentate); coordination number; denticity; chelation."
+        },
+        {
+          "topicId": 21202,
+          "topicName": "IUPAC Nomenclature",
+          "isHighYield": true,
+          "explanation": "Naming mononuclear coordination compounds: ligand naming order, central metal oxidation state; naming cationic, anionic, neutral complexes."
+        },
+        {
+          "topicId": 21203,
+          "topicName": "Isomerism in Coordination Compounds",
+          "isHighYield": true,
+          "explanation": "Structural isomerism (ionisation, hydrate, linkage, coordination); stereoisomerism (geometrical — cis/trans in square planar and octahedral; optical — enantiomers)."
+        },
+        {
+          "topicId": 21204,
+          "topicName": "Bonding — VBT and Crystal Field Theory",
+          "isHighYield": true,
+          "explanation": "Valence bond approach (inner and outer orbital complexes); basic ideas of Crystal Field Theory (CFT); crystal field splitting (Δo, Δt); high spin vs low spin; colour and magnetic properties explanation."
+        },
+        {
+          "topicId": 21205,
+          "topicName": "Importance of Coordination Compounds",
+          "isHighYield": false,
+          "explanation": "Role in qualitative analysis; extraction of metals (gold, silver); biological systems (haemoglobin, chlorophyll, vitamin B12)."
+        }
+      ]
+    },
+    {
+      "chapterId": 213,
+      "chapterName": "Purification and Characterisation of Organic Compounds",
+      "priority": "medium",
+      "summary": "Purification methods, qualitative and quantitative analysis — 1-2 questions annually in NEET. Was completely MISSING from previous metadata.",
+      "zipUrl": "chemistry/chapters/ch213.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 4,
+      "estimatedMarksMax": 8,
+      "topics": [
+        {
+          "topicId": 21301,
+          "topicName": "Purification Methods",
+          "isHighYield": true,
+          "explanation": "Crystallization; sublimation; distillation (simple, fractional, steam, vacuum); differential extraction; chromatography (TLC, column, paper) — principles and applications."
+        },
+        {
+          "topicId": 21302,
+          "topicName": "Qualitative Analysis of Organic Compounds",
+          "isHighYield": true,
+          "explanation": "Detection of nitrogen (Lassaigne's test — sodium fusion), sulphur, phosphorus, and halogens in organic compounds."
+        },
+        {
+          "topicId": 21303,
+          "topicName": "Quantitative Analysis",
+          "isHighYield": false,
+          "explanation": "Basic principles of estimation of C, H (combustion), N (Dumas/Kjeldahl), halogens (Carius), S, P; calculation of empirical and molecular formulae; numerical problems."
+        }
+      ]
+    },
+    {
+      "chapterId": 214,
+      "chapterName": "Some Basic Principles of Organic Chemistry",
+      "priority": "high",
+      "summary": "IUPAC naming, electronic effects, reaction intermediates — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch214.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 21401,
+          "topicName": "Tetravalency of Carbon and Hybridisation",
+          "isHighYield": true,
+          "explanation": "Tetravalency; shapes of simple molecules; sp, sp², sp³ hybridization; classification of organic compounds based on functional groups."
+        },
+        {
+          "topicId": 21402,
+          "topicName": "Homologous Series and Isomerism",
+          "isHighYield": true,
+          "explanation": "Homologous series; structural isomerism (chain, position, functional, metamerism, tautomerism); stereoisomerism (geometrical, optical)."
+        },
+        {
+          "topicId": 21403,
+          "topicName": "IUPAC Nomenclature",
+          "isHighYield": true,
+          "explanation": "IUPAC and trivial names; functional group priority rules; naming of compounds with multiple functional groups; substituent naming."
+        },
+        {
+          "topicId": 21404,
+          "topicName": "Reaction Intermediates",
+          "isHighYield": true,
+          "explanation": "Homolytic and heterolytic fission; free radicals (stability order); carbocations (stability: 3° > 2° > 1°); carbanions; electrophiles and nucleophiles."
+        },
+        {
+          "topicId": 21405,
+          "topicName": "Electronic Effects",
+          "isHighYield": true,
+          "explanation": "Inductive effect (+I, -I); electromeric effect; resonance/mesomeric effect; hyperconjugation — all with examples of effect on reactivity and acidity/basicity."
+        },
+        {
+          "topicId": 21406,
+          "topicName": "Types of Organic Reactions",
+          "isHighYield": true,
+          "explanation": "Substitution (SN1, SN2, electrophilic, free-radical); addition; elimination; rearrangement — classification and overview."
+        }
+      ]
+    },
+    {
+      "chapterId": 215,
+      "chapterName": "Hydrocarbons",
+      "priority": "high",
+      "summary": "Alkanes, alkenes, alkynes, arenes — 2-3 questions annually in NEET. Was completely MISSING from previous metadata.",
+      "zipUrl": "chemistry/chapters/ch215.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 21501,
+          "topicName": "Alkanes",
+          "isHighYield": true,
+          "explanation": "Classification; IUPAC nomenclature; conformations (Sawhorse and Newman projections of ethane — staggered vs eclipsed); mechanism of halogenation (free radical chain mechanism)."
+        },
+        {
+          "topicId": 21502,
+          "topicName": "Alkenes",
+          "isHighYield": true,
+          "explanation": "Geometrical isomerism (cis-trans, E-Z); electrophilic addition mechanism; addition of H₂, halogens, water, HX (Markownikoff's rule and peroxide/anti-Markownikoff effect); ozonolysis; polymerization."
+        },
+        {
+          "topicId": 21503,
+          "topicName": "Alkynes",
+          "isHighYield": true,
+          "explanation": "Acidic character of terminal alkynes; addition of H₂, halogens, water (Markownikoff's rule), HX; polymerization."
+        },
+        {
+          "topicId": 21504,
+          "topicName": "Aromatic Hydrocarbons",
+          "isHighYield": true,
+          "explanation": "Benzene structure and aromaticity (Hückel's rule — 4n+2 π electrons); mechanism of electrophilic aromatic substitution: halogenation, nitration, Friedel-Crafts alkylation and acylation; directive influence of functional groups in monosubstituted benzene (o/p vs m-directors)."
+        }
+      ]
+    },
+    {
+      "chapterId": 216,
+      "chapterName": "Organic Compounds Containing Halogens",
+      "priority": "high",
+      "summary": "Haloalkanes, haloarenes, SN1/SN2 — 2-3 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch216.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 8,
+      "estimatedMarksMax": 12,
+      "topics": [
+        {
+          "topicId": 21601,
+          "topicName": "Preparation and Properties of Haloalkanes",
+          "isHighYield": true,
+          "explanation": "General methods of preparation; nature of C-X bond (polarity); physical and chemical properties."
+        },
+        {
+          "topicId": 21602,
+          "topicName": "Nucleophilic Substitution Reactions",
+          "isHighYield": true,
+          "explanation": "SN1 mechanism (carbocation stability, racemization); SN2 mechanism (backside attack, inversion of configuration, steric effects); factors governing SN1 vs SN2."
+        },
+        {
+          "topicId": 21603,
+          "topicName": "Haloarenes",
+          "isHighYield": true,
+          "explanation": "Preparation; reactions; resonance in haloarenes; decreased reactivity towards nucleophilic substitution; electrophilic substitution (o/p-direction by halogens)."
+        },
+        {
+          "topicId": 21604,
+          "topicName": "Environmental Effects",
+          "isHighYield": true,
+          "explanation": "Uses of haloalkanes; environmental effects of chloroform, iodoform, freons (ozone depletion), and DDT (biomagnification)."
+        }
+      ]
+    },
+    {
+      "chapterId": 217,
+      "chapterName": "Organic Compounds Containing Oxygen",
+      "priority": "very_high",
+      "summary": "Alcohols, phenols, aldehydes, ketones, carboxylic acids — 3-4 questions annually in NEET. Note: Official syllabus covers Alcohols, Phenols, Ethers, Aldehydes, Ketones AND Carboxylic Acids all in one unit.",
+      "zipUrl": "chemistry/chapters/ch217.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 21701,
+          "topicName": "Alcohols",
+          "isHighYield": true,
+          "explanation": "Identification of 1°, 2°, 3° alcohols (Lucas test); mechanism of dehydration (E1); esterification; oxidation of alcohols."
+        },
+        {
+          "topicId": 21702,
+          "topicName": "Phenols",
+          "isHighYield": true,
+          "explanation": "Acidic nature (resonance stabilisation of phenoxide ion); acidity comparison; electrophilic substitution: halogenation, nitration, sulphonation; Reimer-Tiemann reaction; Kolbe's reaction."
+        },
+        {
+          "topicId": 21703,
+          "topicName": "Ethers",
+          "isHighYield": false,
+          "explanation": "Structure of ethers; preparation (Williamson synthesis); properties; cleavage reactions."
+        },
+        {
+          "topicId": 21704,
+          "topicName": "Aldehydes and Ketones",
+          "isHighYield": true,
+          "explanation": "Nature of carbonyl group; nucleophilic addition to C=O: addition of HCN, NaHSO₃, NH₃ and derivatives (hydroxylamine, semicarbazide, 2,4-DNP), Grignard reagent; oxidation; reduction (Wolff-Kishner and Clemmensen); acidity of α-hydrogen; aldol condensation; Cannizzaro reaction; haloform reaction; chemical tests to distinguish aldehydes from ketones."
+        },
+        {
+          "topicId": 21705,
+          "topicName": "Carboxylic Acids",
+          "isHighYield": true,
+          "explanation": "Acidic strength and factors affecting it (inductive effect of substituents, resonance); comparison of acidity of substituted carboxylic acids."
+        }
+      ]
+    },
+    {
+      "chapterId": 218,
+      "chapterName": "Organic Compounds Containing Nitrogen",
+      "priority": "high",
+      "summary": "Amines, diazonium salts — 1-2 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch218.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 4,
+      "estimatedMarksMax": 8,
+      "topics": [
+        {
+          "topicId": 21801,
+          "topicName": "Amines",
+          "isHighYield": true,
+          "explanation": "Nomenclature; classification (1°, 2°, 3° aliphatic and aromatic); structure; basic character (aliphatic > ammonia > aromatic amines); factors affecting basicity; identification of 1°/2°/3° amines (Hinsberg test, Carbylamine test)."
+        },
+        {
+          "topicId": 21802,
+          "topicName": "Diazonium Salts",
+          "isHighYield": true,
+          "explanation": "Preparation from primary aromatic amines; importance in synthetic organic chemistry: Sandmeyer reaction, Balz-Schiemann reaction, coupling reactions (azo dyes)."
+        }
+      ]
+    },
+    {
+      "chapterId": 219,
+      "chapterName": "Biomolecules",
+      "priority": "very_high",
+      "summary": "Carbohydrates, proteins, vitamins, nucleic acids, hormones — 3-4 questions annually in NEET.",
+      "zipUrl": "chemistry/chapters/ch219.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 21901,
+          "topicName": "Carbohydrates",
+          "isHighYield": true,
+          "explanation": "Classification (mono-, di-, polysaccharides); aldoses and ketoses; monosaccharides: glucose (open chain and ring structures, anomers) and fructose; disaccharides: sucrose, lactose, maltose (constituent monosaccharides and glycosidic linkage); polysaccharides: starch, cellulose, glycogen."
+        },
+        {
+          "topicId": 21902,
+          "topicName": "Proteins",
+          "isHighYield": true,
+          "explanation": "α-amino acids (essential and non-essential); peptide bond formation; polypeptides; protein structure: primary (sequence), secondary (α-helix, β-pleated sheet), tertiary (3D folding), quaternary (association of subunits); denaturation of proteins; enzymes (characteristics and specificity)."
+        },
+        {
+          "topicId": 21903,
+          "topicName": "Vitamins",
+          "isHighYield": true,
+          "explanation": "Classification: fat-soluble (A, D, E, K) and water-soluble (B complex, C); deficiency diseases associated with each vitamin."
+        },
+        {
+          "topicId": 21904,
+          "topicName": "Nucleic Acids",
+          "isHighYield": true,
+          "explanation": "Chemical constitution of DNA (deoxyribose, phosphate, bases: A, T, G, C) and RNA (ribose, phosphate, bases: A, U, G, C); nucleoside vs nucleotide; biological functions (storage and transfer of genetic information, protein synthesis)."
+        },
+        {
+          "topicId": 21905,
+          "topicName": "Hormones",
+          "isHighYield": false,
+          "explanation": "General introduction; classification (steroid, peptide, amino acid-derived hormones); examples and their roles."
+        }
+      ]
+    },
+    {
+      "chapterId": 220,
+      "chapterName": "Principles Related to Practical Chemistry",
+      "priority": "medium",
+      "summary": "Salt analysis, organic detection, preparations, titrations — 1-2 questions annually in NEET. Was completely MISSING from previous metadata.",
+      "zipUrl": "chemistry/chapters/ch220.zip",
+      "questionCount": 65,
+      "diagramCount": 18,
+      "sizeKB": 3580,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 4,
+      "estimatedMarksMax": 8,
+      "topics": [
+        {
+          "topicId": 22001,
+          "topicName": "Detection of Elements in Organic Compounds",
+          "isHighYield": true,
+          "explanation": "Detection of nitrogen, sulphur, and halogens using sodium fusion (Lassaigne's test); detection of phosphorus."
+        },
+        {
+          "topicId": 22002,
+          "topicName": "Detection of Functional Groups",
+          "isHighYield": true,
+          "explanation": "Detection of: hydroxyl (alcoholic — Lucas test/esterification; phenolic — FeCl₃ test); carbonyl (aldehyde — Tollens, Fehling; ketone — 2,4-DNP); carboxyl (NaHCO₃ test); amino (Hinsberg test, Carbylamine test)."
+        },
+        {
+          "topicId": 22003,
+          "topicName": "Preparation of Inorganic Compounds",
+          "isHighYield": false,
+          "explanation": "Preparation of Mohr's salt [FeSO₄·(NH₄)₂SO₄·6H₂O] and Potash alum [KAl(SO₄)₂·12H₂O] — chemistry involved."
+        },
+        {
+          "topicId": 22004,
+          "topicName": "Preparation of Organic Compounds",
+          "isHighYield": false,
+          "explanation": "Chemistry involved in preparation of: acetanilide, p-nitroacetanilide, aniline yellow (dye), iodoform."
+        },
+        {
+          "topicId": 22005,
+          "topicName": "Titrimetric Exercises",
+          "isHighYield": true,
+          "explanation": "Acid-base titrations with indicators; oxalic acid vs KMnO₄ (redox titration); Mohr's salt vs KMnO₄ — chemistry principles involved."
+        },
+        {
+          "topicId": 22006,
+          "topicName": "Qualitative Salt Analysis",
+          "isHighYield": true,
+          "explanation": "Cation detection: Pb²⁺, Cu²⁺, Al³⁺, Fe³⁺, Zn²⁺, Ni²⁺, Ca²⁺, Ba²⁺, Mg²⁺, NH₄⁺ (group separation and confirmatory tests). Anion detection: CO₃²⁻, S²⁻, SO₄²⁻, NO₃⁻, NO₂⁻, Cl⁻, Br⁻, I⁻. (Insoluble salts excluded.)"
+        },
+        {
+          "topicId": 22007,
+          "topicName": "Thermochemical and Kinetic Experiments",
+          "isHighYield": false,
+          "explanation": "Enthalpy of solution of CuSO₄; enthalpy of neutralization (strong acid + strong base); preparation of lyophilic and lyophobic sols; kinetic study of iodide ions with H₂O₂ at room temperature."
+        }
+      ]
+    }
+  ]
+}
