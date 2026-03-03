@@ -1,1189 +1,557 @@
 {
-    "subjectId": 3,
-    "subjectName": "Biology",
-    "totalChapters": 45,
-    "chapters": [
-      {
-        "chapterId": 301,
-        "chapterName": "Diversity in Living World",
-        "priority": "high",
-        "summary": "Five kingdom classification, binomial nomenclature - 3-4 questions annually in NEET.",
-        "zipUrl": "biology/chapters/ch301.zip",
-        "questionCount": 65,
-        "diagramCount": 36,
-        "sizeKB": 5120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3011,
-            "topicName": "Taxonomic Categories",
-            "isHighYield": true,
-            "explanation": "Hierarchy: Species → Genus → Family → Order → Class → Phylum → Kingdom."
-          },
-          {
-            "topicId": 3012,
-            "topicName": "Five Kingdom Classification",
-            "isHighYield": true,
-            "explanation": "Whittaker's criteria based on cell structure and nutrition."
-          }
-        ]
-      },
-      {
-        "chapterId": 302,
-        "chapterName": "Biological Classification",
-        "priority": "high",
-        "summary": "Viruses, bacteria, fungi - 3-4 questions annually in NEET.",
-        "zipUrl": "biology/chapters/ch302.zip",
-        "questionCount": 68,
-        "diagramCount": 38,
-        "sizeKB": 5420,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3021,
-            "topicName": "Viruses",
-            "isHighYield": true,
-            "explanation": "Structure of TMV, bacteriophage."
-          },
-          {
-            "topicId": 3022,
-            "topicName": "Kingdom Monera",
-            "isHighYield": true,
-            "explanation": "Bacterial shapes and reproduction."
-          }
-        ]
-      },
-      {
-        "chapterId": 303,
-        "chapterName": "Cell: The Unit of Life",
-        "priority": "very_high",
-        "summary": "Cell organelles, cell division - 4-5 questions annually in NEET.",
-        "zipUrl": "biology/chapters/ch303.zip",
-        "questionCount": 85,
-        "diagramCount": 62,
-        "sizeKB": 9840,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3031,
-            "topicName": "Mitochondria",
-            "isHighYield": true,
-            "explanation": "Structure and ATP synthesis."
-          },
-          {
-            "topicId": 3032,
-            "topicName": "Cell Division",
-            "isHighYield": true,
-            "explanation": "Mitosis and meiosis stages."
-          }
-        ]
-      },
-      {
-        "chapterId": 304,
-        "chapterName": "Plant Tissues",
-        "priority": "high",
-        "summary": "Meristematic and permanent tissues - 2-3 questions annually in NEET.",
-        "zipUrl": "biology/chapters/ch304.zip",
-        "questionCount": 60,
-        "diagramCount": 42,
-        "sizeKB": 5980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3041,
-            "topicName": "Meristems",
-            "isHighYield": true,
-            "explanation": "Apical, lateral, intercalary types."
-          }
-        ]
-      },
-      {
-        "chapterId": 305,
-        "chapterName": "Anatomy of Flowering Plants",
-        "priority": "very_high",
-        "summary": "Dicot root and stem anatomy - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch305.zip",
-        "questionCount": 78,
-        "diagramCount": 56,
-        "sizeKB": 8640,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3051,
-            "topicName": "Dicot Root",
-            "isHighYield": true,
-            "explanation": "Epidermis, cortex, endodermis arrangement."
-          },
-          {
-            "topicId": 3052,
-            "topicName": "Dicot Stem",
-            "isHighYield": true,
-            "explanation": "Vascular bundle arrangement."
-          }
-        ]
-      },
-      {
-        "chapterId": 306,
-        "chapterName": "Morphology of Flowering Plants",
-        "priority": "high",
-        "summary": "Flower structure modifications - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch306.zip",
-        "questionCount": 65,
-        "diagramCount": 48,
-        "sizeKB": 6720,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3061,
-            "topicName": "Flower Structure",
-            "isHighYield": true,
-            "explanation": "Calyx, corolla, androecium, gynoecium."
-          }
-        ]
-      },
-      {
-        "chapterId": 307,
-        "chapterName": "Photosynthesis in Higher Plants",
-        "priority": "high",
-        "summary": "C3 and C4 pathways - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch307.zip",
-        "questionCount": 70,
-        "diagramCount": 42,
-        "sizeKB": 6380,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3071,
-            "topicName": "C3 and C4 Plants",
-            "isHighYield": true,
-            "explanation": "Kranz anatomy and Hatch-Slack cycle."
-          }
-        ]
-      },
-      {
-        "chapterId": 308,
-        "chapterName": "Respiration in Plants",
-        "priority": "very_high",
-        "summary": "Glycolysis and Krebs cycle - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch308.zip",
-        "questionCount": 72,
-        "diagramCount": 46,
-        "sizeKB": 6720,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3081,
-            "topicName": "Glycolysis",
-            "isHighYield": true,
-            "explanation": "Net gain 2 ATP + 2 NADH per glucose."
-          },
-          {
-            "topicId": 3082,
-            "topicName": "Krebs Cycle",
-            "isHighYield": true,
-            "explanation": "3 NADH, 1 FADH₂, 1 ATP per acetyl CoA."
-          }
-        ]
-      },
-      {
-        "chapterId": 309,
-        "chapterName": "Plant Growth and Development",
-        "priority": "high",
-        "summary": "Plant hormones - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch309.zip",
-        "questionCount": 62,
-        "diagramCount": 38,
-        "sizeKB": 5420,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3091,
-            "topicName": "Auxins",
-            "isHighYield": true,
-            "explanation": "Apical dominance and phototropism."
-          },
-          {
-            "topicId": 3092,
-            "topicName": "Gibberellins",
-            "isHighYield": true,
-            "explanation": "Seed germination and stem elongation."
-          }
-        ]
-      },
-      {
-        "chapterId": 310,
-        "chapterName": "Principles of Inheritance and Variation",
-        "priority": "very_high",
-        "summary": "Mendel's laws, linkage - 4-5 questions annually in NEET.",
-        "zipUrl": "chapters/ch310.zip",
-        "questionCount": 85,
-        "diagramCount": 52,
-        "sizeKB": 7980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3101,
-            "topicName": "Mendel's Laws",
-            "isHighYield": true,
-            "explanation": "Law of dominance, segregation, independent assortment."
-          },
-          {
-            "topicId": 3102,
-            "topicName": "Linkage",
-            "isHighYield": true,
-            "explanation": "Recombination frequency calculations."
-          }
-        ]
-      },
-      {
-        "chapterId": 311,
-        "chapterName": "Molecular Basis of Inheritance",
-        "priority": "very_high",
-        "summary": "DNA replication, protein synthesis - 4-5 questions annually in NEET.",
-        "zipUrl": "chapters/ch311.zip",
-        "questionCount": 82,
-        "diagramCount": 58,
-        "sizeKB": 8980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3111,
-            "topicName": "DNA Replication",
-            "isHighYield": true,
-            "explanation": "Semi-conservative replication and enzymes."
-          },
-          {
-            "topicId": 3112,
-            "topicName": "Protein Synthesis",
-            "isHighYield": true,
-            "explanation": "Transcription and translation steps."
-          }
-        ]
-      },
-      {
-        "chapterId": 312,
-        "chapterName": "Body Fluids and Circulation",
-        "priority": "very_high",
-        "summary": "Heart structure, blood groups - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch312.zip",
-        "questionCount": 88,
-        "diagramCount": 72,
-        "sizeKB": 11240,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3121,
-            "topicName": "Heart Structure",
-            "isHighYield": true,
-            "explanation": "Four chambers, valves, blood vessels."
-          },
-          {
-            "topicId": 3122,
-            "topicName": "ABO Blood Groups",
-            "isHighYield": true,
-            "explanation": "Iᴬ, Iᴮ, i alleles and codominance."
-          }
-        ]
-      },
-      {
-        "chapterId": 313,
-        "chapterName": "Breathing and Exchange of Gases",
-        "priority": "high",
-        "summary": "Respiratory volumes - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch313.zip",
-        "questionCount": 65,
-        "diagramCount": 44,
-        "sizeKB": 6720,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3131,
-            "topicName": "Respiratory Volumes",
-            "isHighYield": true,
-            "explanation": "TV, IRV, ERV, RV calculations."
-          }
-        ]
-      },
-      {
-        "chapterId": 314,
-        "chapterName": "Excretory Products and Elimination",
-        "priority": "very_high",
-        "summary": "Nephron structure, urine formation - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch314.zip",
-        "questionCount": 75,
-        "diagramCount": 58,
-        "sizeKB": 9120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3141,
-            "topicName": "Nephron",
-            "isHighYield": true,
-            "explanation": "Bowman's capsule to collecting duct."
-          },
-          {
-            "topicId": 3142,
-            "topicName": "ADH Function",
-            "isHighYield": true,
-            "explanation": "Water reabsorption regulation."
-          }
-        ]
-      },
-      {
-        "chapterId": 315,
-        "chapterName": "Neural Control and Coordination",
-        "priority": "very_high",
-        "summary": "Neuron structure, synapses - 4-5 questions annually in NEET.",
-        "zipUrl": "chapters/ch315.zip",
-        "questionCount": 92,
-        "diagramCount": 76,
-        "sizeKB": 12480,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3151,
-            "topicName": "Neuron Structure",
-            "isHighYield": true,
-            "explanation": "Dendrites, axon, myelin sheath."
-          },
-          {
-            "topicId": 3152,
-            "topicName": "Synapse",
-            "isHighYield": true,
-            "explanation": "Chemical synapse neurotransmitters."
-          }
-        ]
-      },
-      {
-        "chapterId": 316,
-        "chapterName": "Chemical Coordination and Integration",
-        "priority": "very_high",
-        "summary": "Hypothalamus, pituitary hormones - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch316.zip",
-        "questionCount": 80,
-        "diagramCount": 62,
-        "sizeKB": 9840,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3161,
-            "topicName": "Hypothalamus",
-            "isHighYield": true,
-            "explanation": "Releasing and inhibiting hormones."
-          },
-          {
-            "topicId": 3162,
-            "topicName": "Pituitary Gland",
-            "isHighYield": true,
-            "explanation": "Anterior and posterior lobe hormones."
-          }
-        ]
-      },
-      {
-        "chapterId": 317,
-        "chapterName": "Human Reproduction",
-        "priority": "very_high",
-        "summary": "Gametogenesis, menstrual cycle - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch317.zip",
-        "questionCount": 82,
-        "diagramCount": 68,
-        "sizeKB": 10240,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3171,
-            "topicName": "Ovulation",
-            "isHighYield": true,
-            "explanation": "LH surge triggers release of oocyte."
-          },
-          {
-            "topicId": 3172,
-            "topicName": "Menstrual Cycle",
-            "isHighYield": true,
-            "explanation": "Follicular, ovulatory, luteal phases."
-          }
-        ]
-      },
-      {
-        "chapterId": 318,
-        "chapterName": "Reproductive Health",
-        "priority": "high",
-        "summary": "Contraceptive methods - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch318.zip",
-        "questionCount": 60,
-        "diagramCount": 36,
-        "sizeKB": 5280,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3181,
-            "topicName": "Contraception",
-            "isHighYield": true,
-            "explanation": "Natural, barrier, hormonal methods."
-          }
-        ]
-      },
-      {
-        "chapterId": 319,
-        "chapterName": "Evolution",
-        "priority": "very_high",
-        "summary": "Darwin's theory, molecular evidence - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch319.zip",
-        "questionCount": 72,
-        "diagramCount": 48,
-        "sizeKB": 7680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3191,
-            "topicName": "Natural Selection",
-            "isHighYield": true,
-            "explanation": "Variation + selection pressure → adaptation."
-          },
-          {
-            "topicId": 3192,
-            "topicName": "Molecular Evidence",
-            "isHighYield": true,
-            "explanation": "DNA sequence homology comparisons."
-          }
-        ]
-      },
-      {
-        "chapterId": 320,
-        "chapterName": "Human Health and Disease",
-        "priority": "very_high",
-        "summary": "Infectious diseases, immunity - 4-5 questions annually in NEET.",
-        "zipUrl": "chapters/ch320.zip",
-        "questionCount": 90,
-        "diagramCount": 74,
-        "sizeKB": 11840,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3201,
-            "topicName": "Malaria",
-            "isHighYield": true,
-            "explanation": "Plasmodium life cycle in human and mosquito."
-          },
-          {
-            "topicId": 3202,
-            "topicName": "AIDS",
-            "isHighYield": true,
-            "explanation": "HIV attacks CD4⁺ T-lymphocytes."
-          }
-        ]
-      },
-      {
-        "chapterId": 321,
-        "chapterName": "Strategies for Enhancement in Food Production",
-        "priority": "high",
-        "summary": "Plant breeding, biotechnology - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch321.zip",
-        "questionCount": 62,
-        "diagramCount": 40,
-        "sizeKB": 5980,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3211,
-            "topicName": "Green Revolution",
-            "isHighYield": true,
-            "explanation": "High-yielding varieties of wheat and rice."
-          },
-          {
-            "topicId": 3212,
-            "topicName": "Bt Cotton",
-            "isHighYield": true,
-            "explanation": "Bacillus thuringiensis cry gene insertion."
-          }
-        ]
-      },
-      {
-        "chapterId": 322,
-        "chapterName": "Microbes in Human Welfare",
-        "priority": "high",
-        "summary": "Antibiotics, biofertilizers - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch322.zip",
-        "questionCount": 58,
-        "diagramCount": 36,
-        "sizeKB": 5120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3221,
-            "topicName": "Antibiotics",
-            "isHighYield": true,
-            "explanation": "Penicillin from Penicillium."
-          }
-        ]
-      },
-      {
-        "chapterId": 323,
-        "chapterName": "Biotechnology: Principles and Processes",
-        "priority": "very_high",
-        "summary": "rDNA technology, PCR - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch323.zip",
-        "questionCount": 75,
-        "diagramCount": 52,
-        "sizeKB": 8420,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3231,
-            "topicName": "rDNA Technology",
-            "isHighYield": true,
-            "explanation": "Plasmid vectors, restriction enzymes."
-          },
-          {
-            "topicId": 3232,
-            "topicName": "PCR",
-            "isHighYield": true,
-            "explanation": "DNA amplification steps."
-          }
-        ]
-      },
-      {
-        "chapterId": 324,
-        "chapterName": "Biotechnology and its Applications",
-        "priority": "high",
-        "summary": "Insulin production, gene therapy - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch324.zip",
-        "questionCount": 65,
-        "diagramCount": 42,
-        "sizeKB": 6720,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3241,
-            "topicName": "Insulin Production",
-            "isHighYield": true,
-            "explanation": "Human insulin gene in E. coli."
-          }
-        ]
-      },
-      {
-        "chapterId": 325,
-        "chapterName": "Ecosystem",
-        "priority": "high",
-        "summary": "Energy flow, trophic levels - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch325.zip",
-        "questionCount": 68,
-        "diagramCount": 46,
-        "sizeKB": 7240,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3251,
-            "topicName": "10% Law",
-            "isHighYield": true,
-            "explanation": "Energy transfer between trophic levels."
-          }
-        ]
-      },
-      {
-        "chapterId": 326,
-        "chapterName": "Biodiversity and Conservation",
-        "priority": "high",
-        "summary": "Hotspots, IUCN categories - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch326.zip",
-        "questionCount": 62,
-        "diagramCount": 42,
-        "sizeKB": 6580,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3261,
-            "topicName": "Indian Hotspots",
-            "isHighYield": true,
-            "explanation": "Western Ghats and Himalayas."
-          },
-          {
-            "topicId": 3262,
-            "topicName": "IUCN Categories",
-            "isHighYield": true,
-            "explanation": "CR, EN, VU classifications."
-          }
-        ]
-      },
-      {
-        "chapterId": 327,
-        "chapterName": "Environmental Issues",
-        "priority": "high",
-        "summary": "Global warming, ozone depletion - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch327.zip",
-        "questionCount": 65,
-        "diagramCount": 44,
-        "sizeKB": 6840,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3271,
-            "topicName": "Global Warming",
-            "isHighYield": true,
-            "explanation": "Greenhouse gases and effects."
-          },
-          {
-            "topicId": 3272,
-            "topicName": "Ozone Depletion",
-            "isHighYield": true,
-            "explanation": "CFCs and ozone hole."
-          }
-        ]
-      },
-      {
-        "chapterId": 328,
-        "chapterName": "Cell Cycle and Cell Division",
-        "priority": "very_high",
-        "summary": "Mitosis and meiosis stages - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch328.zip",
-        "questionCount": 78,
-        "diagramCount": 64,
-        "sizeKB": 9680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3281,
-            "topicName": "Mitosis",
-            "isHighYield": true,
-            "explanation": "Prophase, metaphase, anaphase, telophase."
-          },
-          {
-            "topicId": 3282,
-            "topicName": "Meiosis",
-            "isHighYield": true,
-            "explanation": "Reduction division stages."
-          }
-        ]
-      },
-      {
-        "chapterId": 329,
-        "chapterName": "Plant Physiology",
-        "priority": "high",
-        "summary": "Photosynthesis, respiration mechanisms - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch329.zip",
-        "questionCount": 72,
-        "diagramCount": 48,
-        "sizeKB": 7380,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3291,
-            "topicName": "C4 Pathway",
-            "isHighYield": true,
-            "explanation": "Hatch-Slack cycle details."
-          }
-        ]
-      },
-      {
-        "chapterId": 330,
-        "chapterName": "Human Physiology (Comprehensive)",
-        "priority": "very_high",
-        "summary": "Digestive, respiratory, circulatory systems - 8-10 questions annually in NEET.",
-        "zipUrl": "chapters/ch330.zip",
-        "questionCount": 105,
-        "diagramCount": 86,
-        "sizeKB": 14240,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3301,
-            "topicName": "Digestive System",
-            "isHighYield": true,
-            "explanation": "Enzyme secretion and absorption sites."
-          },
-          {
-            "topicId": 3302,
-            "topicName": "Respiratory System",
-            "isHighYield": true,
-            "explanation": "Gas exchange mechanism."
-          },
-          {
-            "topicId": 3303,
-            "topicName": "Circulatory System",
-            "isHighYield": true,
-            "explanation": "Heart cycle and blood pressure regulation."
-          }
-        ]
-      },
-      {
-        "chapterId": 331,
-        "chapterName": "Immune System",
-        "priority": "very_high",
-        "summary": "Innate and adaptive immunity - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch331.zip",
-        "questionCount": 75,
-        "diagramCount": 58,
-        "sizeKB": 8840,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3311,
-            "topicName": "Innate Immunity",
-            "isHighYield": true,
-            "explanation": "Physical barriers and phagocytes."
-          },
-          {
-            "topicId": 3312,
-            "topicName": "Adaptive Immunity",
-            "isHighYield": true,
-            "explanation": "B-cells and T-cells functions."
-          }
-        ]
-      },
-      {
-        "chapterId": 332,
-        "chapterName": "Cancer",
-        "priority": "high",
-        "summary": "Oncogenes, tumor suppressor genes - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch332.zip",
-        "questionCount": 60,
-        "diagramCount": 42,
-        "sizeKB": 6380,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3321,
-            "topicName": "Oncogenes",
-            "isHighYield": true,
-            "explanation": "Mutated proto-oncogenes (Ras, Myc)."
-          },
-          {
-            "topicId": 3322,
-            "topicName": "p53 Gene",
-            "isHighYield": true,
-            "explanation": "Tumor suppressor 'guardian of genome'."
-          }
-        ]
-      },
-      {
-        "chapterId": 333,
-        "chapterName": "Human Genetic Disorders",
-        "priority": "very_high",
-        "summary": "Haemophilia, thalassemia - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch333.zip",
-        "questionCount": 70,
-        "diagramCount": 48,
-        "sizeKB": 7240,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3331,
-            "topicName": "Haemophilia",
-            "isHighYield": true,
-            "explanation": "X-linked recessive deficiency of clotting factors."
-          },
-          {
-            "topicId": 3332,
-            "topicName": "Thalassemia",
-            "isHighYield": true,
-            "explanation": "Autosomal recessive hemoglobin synthesis defect."
-          }
-        ]
-      },
-      {
-        "chapterId": 334,
-        "chapterName": "Evolution (Advanced)",
-        "priority": "very_high",
-        "summary": "Human evolution, adaptive radiation - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch334.zip",
-        "questionCount": 68,
-        "diagramCount": 46,
-        "sizeKB": 7120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3341,
-            "topicName": "Human Evolution",
-            "isHighYield": true,
-            "explanation": "Homo habilis → Homo erectus → Homo sapiens."
-          },
-          {
-            "topicId": 3342,
-            "topicName": "Adaptive Radiation",
-            "isHighYield": true,
-            "explanation": "Darwin's finches example."
-          }
-        ]
-      },
-      {
-        "chapterId": 335,
-        "chapterName": "Biotechnology Products",
-        "priority": "high",
-        "summary": "Biofertilizers, biopesticides - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch335.zip",
-        "questionCount": 58,
-        "diagramCount": 38,
-        "sizeKB": 5680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3351,
-            "topicName": "Biofertilizers",
-            "isHighYield": true,
-            "explanation": "Rhizobium, Azotobacter nitrogen fixation."
-          }
-        ]
-      },
-      {
-        "chapterId": 336,
-        "chapterName": "Ecology",
-        "priority": "high",
-        "summary": "Biogeochemical cycles - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch336.zip",
-        "questionCount": 65,
-        "diagramCount": 44,
-        "sizeKB": 6720,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3361,
-            "topicName": "Nitrogen Cycle",
-            "isHighYield": true,
-            "explanation": "Nitrogen fixation to denitrification steps."
-          }
-        ]
-      },
-      {
-        "chapterId": 337,
-        "chapterName": "Biodiversity",
-        "priority": "high",
-        "summary": "Levels of biodiversity - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch337.zip",
-        "questionCount": 60,
-        "diagramCount": 40,
-        "sizeKB": 6120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3371,
-            "topicName": "Levels of Biodiversity",
-            "isHighYield": true,
-            "explanation": "Genetic, species, ecosystem diversity."
-          }
-        ]
-      },
-      {
-        "chapterId": 338,
-        "chapterName": "Environmental Conservation",
-        "priority": "low",
-        "summary": "National parks, sanctuaries - 1 question annually in NEET.",
-        "zipUrl": "chapters/ch338.zip",
-        "questionCount": 48,
-        "diagramCount": 28,
-        "sizeKB": 4280,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3381,
-            "topicName": "Protected Areas",
-            "isHighYield": false,
-            "explanation": "Kaziranga, Sundarbans examples."
-          }
-        ]
-      },
-      {
-        "chapterId": 339,
-        "chapterName": "Biotechnology in Human Welfare",
-        "priority": "high",
-        "summary": "Gene therapy, transgenic animals - 2 questions annually in NEET.",
-        "zipUrl": "chapters/ch339.zip",
-        "questionCount": 62,
-        "diagramCount": 42,
-        "sizeKB": 6480,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3391,
-            "topicName": "Gene Therapy",
-            "isHighYield": true,
-            "explanation": "SCID treatment using functional genes."
-          }
-        ]
-      },
-      {
-        "chapterId": 340,
-        "chapterName": "Sexual Reproduction in Flowering Plants",
-        "priority": "high",
-        "summary": "Pollination, fertilization - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch340.zip",
-        "questionCount": 70,
-        "diagramCount": 54,
-        "sizeKB": 8120,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3401,
-            "topicName": "Pollination",
-            "isHighYield": true,
-            "explanation": "Self vs cross-pollination mechanisms."
-          },
-          {
-            "topicId": 3402,
-            "topicName": "Double Fertilization",
-            "isHighYield": true,
-            "explanation": "Zygote and endosperm formation."
-          }
-        ]
-      },
-      {
-        "chapterId": 341,
-        "chapterName": "Human Reproduction (Advanced)",
-        "priority": "very_high",
-        "summary": "Embryonic development, pregnancy - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch341.zip",
-        "questionCount": 78,
-        "diagramCount": 64,
-        "sizeKB": 9680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3411,
-            "topicName": "Embryonic Development",
-            "isHighYield": true,
-            "explanation": "Fertilization → cleavage → gastrulation."
-          },
-          {
-            "topicId": 3412,
-            "topicName": "Pregnancy",
-            "isHighYield": true,
-            "explanation": "hCG hormone and placenta formation."
-          }
-        ]
-      },
-      {
-        "chapterId": 342,
-        "chapterName": "Principles of Inheritance (Advanced)",
-        "priority": "very_high",
-        "summary": "Chromosomal disorders - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch342.zip",
-        "questionCount": 72,
-        "diagramCount": 52,
-        "sizeKB": 7920,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3421,
-            "topicName": "Down Syndrome",
-            "isHighYield": true,
-            "explanation": "Trisomy 21 characteristics."
-          },
-          {
-            "topicId": 3422,
-            "topicName": "Cri-du-chat Syndrome",
-            "isHighYield": true,
-            "explanation": "Deletion on chromosome 5p."
-          }
-        ]
-      },
-      {
-        "chapterId": 343,
-        "chapterName": "Human Diseases",
-        "priority": "very_high",
-        "summary": "Bacterial and viral diseases - 3-4 questions annually in NEET.",
-        "zipUrl": "chapters/ch343.zip",
-        "questionCount": 85,
-        "diagramCount": 70,
-        "sizeKB": 10640,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3431,
-            "topicName": "Typhoid",
-            "isHighYield": true,
-            "explanation": "Salmonella typhi transmission."
-          },
-          {
-            "topicId": 3432,
-            "topicName": "Plague",
-            "isHighYield": true,
-            "explanation": "Yersinia pestis and rat fleas."
-          }
-        ]
-      },
-      {
-        "chapterId": 344,
-        "chapterName": "Ecosystems",
-        "priority": "high",
-        "summary": "Food chains, biomagnification - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch344.zip",
-        "questionCount": 68,
-        "diagramCount": 48,
-        "sizeKB": 7380,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3441,
-            "topicName": "Food Chain",
-            "isHighYield": true,
-            "explanation": "Producer → consumer energy transfer."
-          },
-          {
-            "topicId": 3442,
-            "topicName": "Biomagnification",
-            "isHighYield": true,
-            "explanation": "DDT concentration increase up trophic levels."
-          }
-        ]
-      },
-      {
-        "chapterId": 345,
-        "chapterName": "Environmental Pollution",
-        "priority": "high",
-        "summary": "Water and air pollution - 2-3 questions annually in NEET.",
-        "zipUrl": "chapters/ch345.zip",
-        "questionCount": 70,
-        "diagramCount": 52,
-        "sizeKB": 7680,
-        "repeatFrequency": 10,  
-        "totalYearsConsidered": 15, 
-        "estimatedMarksMin": 8, 
-        "estimatedMarksMax": 16,  
-        "topics": [
-          {
-            "topicId": 3451,
-            "topicName": "Water Pollution",
-            "isHighYield": true,
-            "explanation": "BOD and COD measurements."
-          },
-          {
-            "topicId": 3452,
-            "topicName": "Air Pollution",
-            "isHighYield": true,
-            "explanation": "PM2.5 and PM10 health impacts."
-          }
-        ]
-      }
-    ]
-  }
+  "subjectId": 3,
+  "subjectName": "Biology",
+  "totalChapters": 10,
+  "chapters": [
+    {
+      "chapterId": 301,
+      "chapterName": "Diversity in Living World",
+      "priority": "high",
+      "summary": "Classification systems, five kingdoms, plant and animal kingdom — 3-4 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch301.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 30101,
+          "topicName": "What is Living? Biodiversity and Need for Classification",
+          "isHighYield": true,
+          "explanation": "Characteristics of living organisms; biodiversity; need for classification; taxonomy and systematics; concept of species; taxonomical hierarchy (Species → Genus → Family → Order → Class → Phylum → Kingdom); binomial nomenclature (ICBN, ICZN)."
+        },
+        {
+          "topicId": 30102,
+          "topicName": "Five Kingdom Classification",
+          "isHighYield": true,
+          "explanation": "Whittaker's five kingdom system; criteria: cell structure, body organisation, mode of nutrition, reproduction, phylogenetic relationships; salient features and classification of Monera, Protista and Fungi into major groups."
+        },
+        {
+          "topicId": 30103,
+          "topicName": "Lichens, Viruses and Viroids",
+          "isHighYield": true,
+          "explanation": "Lichens as symbiotic association; viruses — structure (TMV, bacteriophage), nucleic acid type, host range; viroids — RNA without protein coat; their significance."
+        },
+        {
+          "topicId": 30104,
+          "topicName": "Plant Kingdom — Algae, Bryophytes, Pteridophytes, Gymnosperms",
+          "isHighYield": true,
+          "explanation": "Salient features and classification of each group (3-5 features + at least 2 examples each): Algae (Chlorophyceae, Phaeophyceae, Rhodophyceae); Bryophytes (liverworts, mosses); Pteridophytes (ferns); Gymnosperms (Cycas, Pinus)."
+        },
+        {
+          "topicId": 30105,
+          "topicName": "Animal Kingdom — Non-Chordates and Chordates",
+          "isHighYield": true,
+          "explanation": "Basis of classification; salient features of non-chordate phyla up to phyla level (Porifera, Coelenterata, Platyhelminthes, Nematoda, Annelida, Arthropoda, Mollusca, Echinodermata, Hemichordata) — 3-5 features + 2 examples each; chordates up to classes level (Cyclostomata, Chondrichthyes, Osteichthyes, Amphibia, Reptilia, Aves, Mammalia) — 3-5 features + 2 examples each."
+        }
+      ]
+    },
+    {
+      "chapterId": 302,
+      "chapterName": "Structural Organisation in Animals and Plants",
+      "priority": "high",
+      "summary": "Plant morphology, anatomy, tissues, plant families, animal tissues, frog anatomy — 3-4 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch302.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 30201,
+          "topicName": "Morphology of Flowering Plants",
+          "isHighYield": true,
+          "explanation": "Morphology and modifications of: root (tap, fibrous, adventitious; modifications for storage, support, respiration); stem (modifications: rhizome, tuber, corm, bulb, tendril, thorn); leaf (modifications: tendrils, spines, phyllode, pitcher); inflorescence (racemose and cymose types); flower structure (calyx, corolla, androecium, gynoecium; placentation); fruit types; seed structure (dicot and monocot)."
+        },
+        {
+          "topicId": 30202,
+          "topicName": "Plant Families",
+          "isHighYield": true,
+          "explanation": "Distinguishing features, floral formula and floral diagram of: Malvaceae (cotton family), Cruciferae/Brassicaceae (mustard family), Leguminosae/Fabaceae (pea family), Compositae/Asteraceae (sunflower family), Graminae/Poaceae (grass family). Examples and economic importance."
+        },
+        {
+          "topicId": 30203,
+          "topicName": "Plant Tissues",
+          "isHighYield": true,
+          "explanation": "Meristematic tissues: apical (root tip, shoot tip), lateral (vascular cambium, cork cambium), intercalary; simple permanent tissues: parenchyma, collenchyma, sclerenchyma; complex permanent tissues: xylem (tracheids, vessels, xylem fibres, xylem parenchyma) and phloem (sieve tubes, companion cells, phloem fibres, phloem parenchyma); tissue systems: epidermal, ground, vascular."
+        },
+        {
+          "topicId": 30204,
+          "topicName": "Anatomy of Flowering Plants",
+          "isHighYield": true,
+          "explanation": "Internal structure of: dicot root (epidermis, cortex, endodermis with Casparian strips, pericycle, vascular bundles — radial arrangement, pith); monocot root; dicot stem (epidermis, hypodermis, cortex, pericycle, vascular bundles — open, conjoint, collateral — pith); monocot stem (scattered vascular bundles); dicot leaf (mesophyll: palisade and spongy parenchyma, vascular bundles, stomata); monocot leaf; secondary growth in dicot stem and root (cambium activity, annual rings, heartwood and sapwood)."
+        },
+        {
+          "topicId": 30205,
+          "topicName": "Animal Tissues",
+          "isHighYield": true,
+          "explanation": "Epithelial tissue: types (squamous, cuboidal, columnar, ciliated, glandular); connective tissue: types (loose — areolar, adipose; dense — tendon, ligament; specialised — cartilage, bone, blood); muscular tissue: skeletal, smooth, cardiac — structure and function; neural tissue: neuron structure, neuroglia."
+        },
+        {
+          "topicId": 30206,
+          "topicName": "Morphology, Anatomy and Physiology of Frog",
+          "isHighYield": true,
+          "explanation": "External features of frog; internal anatomy: digestive system (mouth to cloaca, associated glands), circulatory system (three-chambered heart, portal systems), respiratory system (cutaneous, buccal, pulmonary), nervous system (brain regions, spinal cord, nerves), reproductive system (testes/ovaries, ducts) — brief account only."
+        }
+      ]
+    },
+    {
+      "chapterId": 303,
+      "chapterName": "Cell Structure and Function",
+      "priority": "very_high",
+      "summary": "Cell organelles, biomolecules, enzymes, cell division — 4-5 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch303.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 16,
+      "estimatedMarksMax": 20,
+      "topics": [
+        {
+          "topicId": 30301,
+          "topicName": "Cell Theory and Types of Cells",
+          "isHighYield": true,
+          "explanation": "Cell theory (Schleiden, Schwann, Virchow); cell as basic unit of life; prokaryotic cell (bacteria — cell wall, cell membrane, nucleoid, plasmid, ribosomes, flagella); eukaryotic cell — plant vs animal cell differences."
+        },
+        {
+          "topicId": 30302,
+          "topicName": "Cell Envelope and Cell Wall",
+          "isHighYield": true,
+          "explanation": "Cell envelope in bacteria (glycocalyx, cell wall, plasma membrane); plasma membrane — fluid mosaic model (Singer and Nicolson); active and passive transport; plant cell wall composition and structure."
+        },
+        {
+          "topicId": 30303,
+          "topicName": "Endomembrane System",
+          "isHighYield": true,
+          "explanation": "Endoplasmic reticulum (SER and RER — structure and functions); Golgi apparatus (cisternae, secretion, glycosylation); lysosomes (origin, hydrolytic enzymes, autolysis); vacuoles (central vacuole in plants, contractile vacuole in protists, food vacuoles)."
+        },
+        {
+          "topicId": 30304,
+          "topicName": "Mitochondria, Plastids and Other Organelles",
+          "isHighYield": true,
+          "explanation": "Mitochondria: double membrane, cristae, matrix, ATP synthesis; plastids: chloroplasts (grana, stroma, thylakoids), chromoplasts, leucoplasts; ribosomes: 70S (prokaryote) vs 80S (eukaryote); microbodies (peroxisomes, glyoxysomes); cytoskeleton: microtubules, microfilaments, intermediate filaments; cilia and flagella: 9+2 arrangement; centrioles: 9+0 triplet arrangement."
+        },
+        {
+          "topicId": 30305,
+          "topicName": "Nucleus",
+          "isHighYield": true,
+          "explanation": "Nuclear envelope (double membrane, nuclear pores); chromatin organisation (euchromatin vs heterochromatin); chromosomes (structure, karyotype, autosomes vs sex chromosomes); nucleolus (rRNA synthesis)."
+        },
+        {
+          "topicId": 30306,
+          "topicName": "Biomolecules — Structure and Function",
+          "isHighYield": true,
+          "explanation": "Proteins: amino acid structure, peptide bond, levels of structure (primary to quaternary), denaturation; carbohydrates: monosaccharides, disaccharides, polysaccharides — structure and functions (starch, cellulose, glycogen); lipids: fats, oils, phospholipids, sterols — structure and biological role; nucleic acids: DNA double helix (Watson-Crick model), RNA types (mRNA, tRNA, rRNA)."
+        },
+        {
+          "topicId": 30307,
+          "topicName": "Enzymes",
+          "isHighYield": true,
+          "explanation": "Properties of enzymes (specificity, pH and temperature optima); enzyme action: lock-and-key model, induced-fit model; active site; cofactors, coenzymes, prosthetic groups; enzyme inhibition (competitive and non-competitive); classification and nomenclature (oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases)."
+        },
+        {
+          "topicId": 30308,
+          "topicName": "Cell Cycle and Cell Division",
+          "isHighYield": true,
+          "explanation": "Cell cycle phases: G1, S, G2 (interphase) and M phase; mitosis: prophase (chromosome condensation), metaphase (plate formation), anaphase (chromatid separation), telophase (nuclear reconstitution), cytokinesis — significance; meiosis I (reduction division: synapsis, crossing over, chiasmata, bivalent) and meiosis II — significance (genetic variation, maintaining chromosome number)."
+        }
+      ]
+    },
+    {
+      "chapterId": 304,
+      "chapterName": "Plant Physiology",
+      "priority": "very_high",
+      "summary": "Photosynthesis (C3, C4, ETS), respiration (glycolysis, Krebs), plant hormones — 4-5 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch304.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 16,
+      "estimatedMarksMax": 20,
+      "topics": [
+        {
+          "topicId": 30401,
+          "topicName": "Photosynthesis — Light Reactions",
+          "isHighYield": true,
+          "explanation": "Photosynthesis as autotrophic nutrition; site: chloroplasts (grana for light reactions, stroma for dark reactions); photosynthetic pigments: chlorophyll a, chlorophyll b, carotenoids, xanthophylls (absorption spectra, action spectra); photochemical phase: photosystems I and II; Z-scheme of electron transport; non-cyclic photophosphorylation (produces ATP + NADPH + O₂); cyclic photophosphorylation (produces only ATP); photolysis of water."
+        },
+        {
+          "topicId": 30402,
+          "topicName": "Photosynthesis — Dark Reactions and C3/C4 Pathways",
+          "isHighYield": true,
+          "explanation": "Calvin cycle (C3 pathway): CO₂ fixation by RuBisCO, 3-PGA, G3P, regeneration of RuBP; C4 pathway (Hatch-Slack cycle): PEP carboxylase, oxaloacetate, Kranz anatomy, bundle sheath cells; photorespiration (C3 plants — RuBisCO fixes O₂, energy wastage; absent in C4); factors affecting photosynthesis (light intensity, CO₂ concentration, temperature, water, light quality)."
+        },
+        {
+          "topicId": 30403,
+          "topicName": "Chemiosmotic Hypothesis and ATP Synthesis",
+          "isHighYield": true,
+          "explanation": "Mitchell's chemiosmotic hypothesis; proton gradient across thylakoid membrane; ATP synthase (CF₀-CF₁ complex); proton-motive force driving ATP synthesis — applicable to both chloroplasts and mitochondria."
+        },
+        {
+          "topicId": 30404,
+          "topicName": "Respiration — Glycolysis and Fermentation",
+          "isHighYield": true,
+          "explanation": "Glycolysis (EMP pathway): location in cytoplasm; 10 steps overview; net gain: 2 ATP + 2 NADH + 2 pyruvate per glucose; fermentation (anaerobic): alcoholic fermentation (yeast — pyruvate → ethanol + CO₂) and lactic acid fermentation (muscle cells); energy yield comparison."
+        },
+        {
+          "topicId": 30405,
+          "topicName": "Respiration — Krebs Cycle and ETS",
+          "isHighYield": true,
+          "explanation": "Link reaction: pyruvate → acetyl CoA (produces 1 NADH + CO₂ per pyruvate); Krebs/TCA cycle: location in mitochondrial matrix; per acetyl CoA: 3 NADH + 1 FADH₂ + 1 GTP + 2 CO₂; electron transport system: complexes I-IV in inner mitochondrial membrane; oxidative phosphorylation; chemiosmosis; total ATP per glucose: ~36-38 ATP; respiratory quotient (RQ) for carbohydrates, fats, proteins."
+        },
+        {
+          "topicId": 30406,
+          "topicName": "Amphibolic Pathways",
+          "isHighYield": true,
+          "explanation": "Respiratory pathway as amphibolic (both anabolic and catabolic); respiratory intermediates as precursors for biosynthesis: acetyl CoA → fatty acids; alpha-ketoglutarate → amino acids; PEP → phenylalanine; G3P → glycerol."
+        },
+        {
+          "topicId": 30407,
+          "topicName": "Plant Growth and Development",
+          "isHighYield": true,
+          "explanation": "Seed germination conditions; phases of growth: meristematic, elongation, maturation; arithmetic and geometric growth rates; S-shaped (sigmoid) and exponential growth curves; differentiation, dedifferentiation (callus), redifferentiation; totipotency."
+        },
+        {
+          "topicId": 30408,
+          "topicName": "Plant Growth Regulators",
+          "isHighYield": true,
+          "explanation": "Auxins (IAA): apical dominance, phototropism, geotropism, root initiation, fruit development; gibberellins (GA): seed germination, stem elongation, bolting, fruit development, delay of senescence; cytokinins (kinetin, zeatin): cell division, delay of senescence, apical dominance (antagonises auxin); ethylene: fruit ripening, abscission, triple response; ABA (abscisic acid): dormancy, stomatal closure, stress response — the 'stress hormone'."
+        }
+      ]
+    },
+    {
+      "chapterId": 305,
+      "chapterName": "Human Physiology",
+      "priority": "very_high",
+      "summary": "Digestion, breathing, circulation, excretion, locomotion, neural and chemical coordination — 8-10 questions annually in NEET. This is the highest-yield unit.",
+      "zipUrl": "biology/chapters/ch305.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 32,
+      "estimatedMarksMax": 40,
+      "topics": [
+        {
+          "topicId": 30501,
+          "topicName": "Breathing and Exchange of Gases",
+          "isHighYield": true,
+          "explanation": "Human respiratory system: nasal cavity, pharynx, larynx, trachea, bronchi, bronchioles, alveoli; mechanism of breathing: inspiration (diaphragm and intercostals contract) and expiration; regulation by respiratory centres (medulla oblongata — DRG, VRG), pneumotaxic centre, Hering-Breuer reflex; exchange of gases: partial pressure gradients (pO₂, pCO₂); transport of O₂ (oxyhaemoglobin, Bohr effect) and CO₂ (bicarbonate, carbaminohaemoglobin, dissolved); respiratory volumes: TV (500 mL), IRV, ERV, RV, IC, EC, FRC, VC, TLC; disorders: Asthma, Emphysema, Occupational respiratory disorders."
+        },
+        {
+          "topicId": 30502,
+          "topicName": "Body Fluids and Circulation",
+          "isHighYield": true,
+          "explanation": "Blood composition: plasma (proteins — fibrinogen, albumin, globulin), RBCs (no nucleus, haemoglobin, 120-day life), WBCs (granulocytes — neutrophil, eosinophil, basophil; agranulocytes — monocyte, lymphocyte), platelets; blood groups: ABO (I^A, I^B, i alleles, codominance) and Rh (Rh factor); coagulation cascade; lymph composition and function; heart structure: four chambers, valves (tricuspid, bicuspid/mitral, pulmonary, aortic semilunar), conducting system (SA node — pacemaker, AV node, bundle of His, Purkinje fibres); cardiac cycle (0.8 sec): systole and diastole; cardiac output (SV × HR); ECG (P wave, QRS complex, T wave); double circulation (systemic + pulmonary); cardiac output regulation (Frank-Starling law, autonomic nervous system); disorders: Hypertension, Coronary artery disease, Angina pectoris, Heart failure."
+        },
+        {
+          "topicId": 30503,
+          "topicName": "Excretory Products and Their Elimination",
+          "isHighYield": true,
+          "explanation": "Modes of excretion: ammonotelism (aquatic animals), ureotelism (mammals, amphibians), uricotelism (birds, reptiles, insects); human excretory system: kidneys (cortex, medulla, pelvis), ureters, urinary bladder, urethra; nephron structure: Bowman's capsule (glomerulus), PCT, loop of Henle (descending and ascending limbs), DCT, collecting duct; urine formation: ultrafiltration (GFR ~125 mL/min), selective reabsorption (Na⁺, glucose, amino acids, water), tubular secretion (H⁺, K⁺, NH₃); osmoregulation: counter-current mechanism (Henle's loop and vasa recta); regulation: Renin-angiotensin-aldosterone system, ANF (atrial natriuretic factor), ADH (vasopressin — water reabsorption in DCT and CD); Diabetes insipidus (no ADH); other excretory organs (skin, lungs, liver); disorders: Uraemia, Renal failure, Renal calculi, Nephritis; dialysis (haemodialysis)."
+        },
+        {
+          "topicId": 30504,
+          "topicName": "Locomotion and Movement",
+          "isHighYield": true,
+          "explanation": "Types of movement: amoeboid (pseudopodia), ciliary (respiratory tract, fallopian tube), flagellar (sperm), muscular; skeletal muscle structure: muscle fibre → myofibril → sarcomere (A band, I band, H zone, Z line, M line); contractile proteins: actin (thin filament — F-actin + tropomyosin + troponin) and myosin (thick filament — meromyosin heads); sliding filament theory of muscle contraction: cross-bridge cycle, role of Ca²⁺ and ATP; types of muscle contraction: isometric vs isotonic; skeletal system: axial (skull, vertebral column, ribs, sternum) and appendicular (pectoral girdle, upper limbs, pelvic girdle, lower limbs); joints: fibrous (immovable — sutures), cartilaginous (slightly movable), synovial (freely movable — ball-and-socket, hinge, pivot, gliding); disorders: Myasthenia gravis (autoimmune — acetylcholine receptors), Tetany (low Ca²⁺), Muscular dystrophy (genetic — dystrophin), Arthritis (inflammation of joints), Osteoporosis (low bone density), Gout (uric acid crystals in joints)."
+        },
+        {
+          "topicId": 30505,
+          "topicName": "Neural Control and Coordination",
+          "isHighYield": true,
+          "explanation": "Neuron structure: dendrites, cell body (Nissl granules), axon, myelin sheath (Schwann cells), nodes of Ranvier; types: sensory, motor, interneuron; central nervous system: brain (cerebrum — grey matter/white matter/corpus callosum, cerebellum, medulla oblongata, pons, midbrain, thalamus, hypothalamus), spinal cord; peripheral nervous system: cranial nerves (12 pairs), spinal nerves (31 pairs); visceral/autonomic NS: sympathetic (fight-or-flight) and parasympathetic (rest-and-digest); generation of nerve impulse: resting membrane potential (-70 mV, Na⁺/K⁺ pump), action potential (depolarisation → repolarisation → hyperpolarisation); saltatory conduction in myelinated fibres; synapse: chemical synapse (neurotransmitters: acetylcholine, noradrenaline, dopamine, serotonin, GABA) — pre-synaptic → post-synaptic transmission; reflex arc."
+        },
+        {
+          "topicId": 30506,
+          "topicName": "Chemical Coordination and Regulation",
+          "isHighYield": true,
+          "explanation": "Endocrine glands and their hormones; hypothalamus: releasing and inhibiting hormones (TRH, CRH, GnRH, GHRH, somatostatin, PRH, PIH); pituitary gland: anterior lobe — GH (dwarfism/gigantism/acromegaly), TSH, ACTH, FSH, LH, Prolactin; posterior lobe — ADH (Diabetes insipidus), Oxytocin; pineal gland — melatonin; thyroid gland: T₃, T₄ (goiter, cretinism, exophthalmic goiter/Graves' disease), calcitonin; parathyroid: PTH (hypocalcaemia); adrenal cortex — mineralocorticoids (aldosterone), glucocorticoids (cortisol), sex corticoids; adrenal medulla — adrenaline, noradrenaline; pancreas: insulin (β cells — diabetes mellitus), glucagon (α cells); gonads: testosterone (testes), oestrogen and progesterone (ovary); mechanism of hormone action: lipid-soluble (nuclear receptors) and water-soluble (second messenger — cAMP pathway)."
+        }
+      ]
+    },
+    {
+      "chapterId": 306,
+      "chapterName": "Reproduction",
+      "priority": "very_high",
+      "summary": "Plant reproduction, human reproduction, reproductive health — 4-5 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch306.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 16,
+      "estimatedMarksMax": 20,
+      "topics": [
+        {
+          "topicId": 30601,
+          "topicName": "Sexual Reproduction in Flowering Plants — Flower Structure and Gametophytes",
+          "isHighYield": true,
+          "explanation": "Parts of a flower; stamen structure (anther — microsporangia, microspore mother cell, microsporogenesis, pollen grain wall: exine and intine, pollen viability); pistil structure (stigma, style, ovary, ovule — funiculus, hilum, integuments, nucellus, micropyle, chalaza); megasporogenesis; female gametophyte: Polygonum type (8-nucleate, 7-celled embryo sac — egg cell, 2 synergids, 3 antipodals, 2 polar nuclei)."
+        },
+        {
+          "topicId": 30602,
+          "topicName": "Sexual Reproduction in Flowering Plants — Pollination and Fertilisation",
+          "isHighYield": true,
+          "explanation": "Pollination types: autogamy, geitonogamy, xenogamy; agencies: anemophily, entomophily, hydrophily, zoophily — adaptations and examples; outbreeding devices (dichogamy, herkogamy, self-incompatibility); pollen-pistil interaction (pollen recognition, compatible vs incompatible); double fertilisation: siphonogamy, syngamy (sperm + egg → zygote), triple fusion (sperm + 2 polar nuclei → triploid PEN → endosperm); post-fertilisation: development of endosperm (nuclear, cellular, helobial types), embryo (proembryo → globular → heart → torpedo), seed development, fruit formation; special modes: apomixis, parthenocarpy, polyembryony; significance of seed and fruit."
+        },
+        {
+          "topicId": 30603,
+          "topicName": "Human Reproduction — Male and Female Reproductive Systems",
+          "isHighYield": true,
+          "explanation": "Male system: testes (seminiferous tubules, Sertoli cells, Leydig cells), epididymis, vas deferens, seminal vesicles, prostate, bulbourethral glands, penis; microscopic anatomy of testis; female system: ovaries (ovarian follicles), fallopian tubes (infundibulum, fimbria, ampulla, isthmus), uterus (perimetrium, myometrium, endometrium), cervix, vagina; microscopic anatomy of ovary."
+        },
+        {
+          "topicId": 30604,
+          "topicName": "Human Reproduction — Gametogenesis and Menstrual Cycle",
+          "isHighYield": true,
+          "explanation": "Spermatogenesis: spermatogonia → primary spermatocyte → secondary spermatocytes → spermatids → sperms (spermiation, spermiation); spermatozoon structure (head, neck, middle piece, tail); oogenesis: oogonia → primary oocyte (arrested in prophase I) → released at ovulation as secondary oocyte → fertilised → completes meiosis II; menstrual cycle (28 days): menstrual phase (days 1-5), follicular/proliferative phase (days 1-13, FSH → follicle growth → oestrogen), ovulatory phase (day 14, LH surge → ovulation), luteal/secretory phase (days 15-28, LH → corpus luteum → progesterone)."
+        },
+        {
+          "topicId": 30605,
+          "topicName": "Human Reproduction — Fertilisation and Embryonic Development",
+          "isHighYield": true,
+          "explanation": "Fertilisation in ampulla of fallopian tube; acrosome reaction; cortical reaction (block to polyspermy); zygote formation; embryonic development: cleavage (mitotic divisions, no growth) → morula (16-32 cells) → blastocyst (inner cell mass + trophoblast + blastocoel); implantation (blastocyst embeds in endometrium, day 7); pregnancy: hCG (maintains corpus luteum), placenta formation and functions (nutrition, gas exchange, waste removal, hormone secretion); parturition (role of oxytocin, relaxin); lactation (prolactin → milk production; oxytocin → milk ejection); colostrum (IgA antibodies)."
+        },
+        {
+          "topicId": 30606,
+          "topicName": "Reproductive Health",
+          "isHighYield": true,
+          "explanation": "Need for reproductive health; STD prevention (HIV/AIDS, gonorrhoea, syphilis, hepatitis B, chlamydia); birth control methods: natural (periodic abstinence, withdrawal, lactational amenorrhoea), barrier (condoms, diaphragm, cervical cap, vaults), IUDs (copper-T, hormone-releasing), pills (combined oral, progesterone-only), injectable, implants, surgical (vasectomy, tubectomy); MTP (Medical Termination of Pregnancy) — legal and medical aspects; amniocentesis (sex determination, chromosomal disorders — legal restrictions); infertility: causes; ART: IVF-ET (in vitro fertilisation — embryo transfer), ZIFT (zygote intrafallopian transfer), GIFT (gamete intrafallopian transfer), ICSI, surrogacy."
+        }
+      ]
+    },
+    {
+      "chapterId": 307,
+      "chapterName": "Genetics and Evolution",
+      "priority": "very_high",
+      "summary": "Mendel's laws, molecular genetics, evolution — 5-6 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch307.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 20,
+      "estimatedMarksMax": 24,
+      "topics": [
+        {
+          "topicId": 30701,
+          "topicName": "Mendelian Inheritance",
+          "isHighYield": true,
+          "explanation": "Mendel's experiments on Pisum sativum; Law of Dominance; Law of Segregation (monohybrid cross, 3:1 ratio); Law of Independent Assortment (dihybrid cross, 9:3:3:1 ratio); test cross; back cross; phenotypic and genotypic ratios."
+        },
+        {
+          "topicId": 30702,
+          "topicName": "Deviations from Mendelism",
+          "isHighYield": true,
+          "explanation": "Incomplete dominance (4 o'clock plant — 1:2:1 phenotypic ratio); co-dominance (ABO blood groups — I^A, I^B codominant, i recessive; transfusion compatibility); multiple alleles (ABO blood group system); pleiotropy (one gene → multiple traits; sickle cell anaemia); polygenic inheritance (skin colour, height — multiple gene pairs, continuous variation)."
+        },
+        {
+          "topicId": 30703,
+          "topicName": "Chromosomal Basis of Inheritance",
+          "isHighYield": true,
+          "explanation": "Chromosome theory of inheritance (Sutton and Boveri); chromosomes as carriers of genes; sex determination: XX-XY in humans (males = XY, sex-determining region on Y — SRY gene); ZW-ZZ in birds (females = ZW); XO in grasshopper; haplodiploidy in honey bees; sex-linked inheritance: haemophilia (X-linked recessive — factor VIII deficiency, royal disease), colour blindness (X-linked recessive); linkage (Morgan — Drosophila experiments); crossing over; recombination frequency as measure of map distance."
+        },
+        {
+          "topicId": 30704,
+          "topicName": "Mendelian and Chromosomal Disorders",
+          "isHighYield": true,
+          "explanation": "Mendelian disorders: thalassemia (autosomal recessive — defective haemoglobin synthesis, alpha and beta thalassemia); chromosomal disorders: Down's syndrome (trisomy 21 — 47 chromosomes, mental retardation, characteristic features, maternal age effect); Turner's syndrome (45, XO — sterile female, rudimentary ovaries, short stature); Klinefelter's syndrome (47, XXY — sterile male, gynaecomastia); Cri-du-chat (deletion of chromosome 5p)."
+        },
+        {
+          "topicId": 30705,
+          "topicName": "Molecular Basis of Inheritance — DNA Structure and Replication",
+          "isHighYield": true,
+          "explanation": "Search for genetic material: Griffith's transformation experiment, Avery-MacLeod-McCarty experiment, Hershey-Chase experiment (DNA is genetic material); DNA structure: Watson-Crick double helix model (antiparallel strands, base pairing A-T and G-C, major and minor grooves); Chargaff's rules; DNA packaging: nucleosome (histone octamer + 146 bp DNA), solenoid, chromosome; DNA replication: semi-conservative (Meselson-Stahl experiment); enzymes: DNA polymerase (5'→3'), helicase, primase, ligase, topoisomerase; leading and lagging strand synthesis; Okazaki fragments."
+        },
+        {
+          "topicId": 30706,
+          "topicName": "Molecular Basis of Inheritance — Transcription, Translation and Gene Regulation",
+          "isHighYield": true,
+          "explanation": "Central dogma (DNA → RNA → Protein); transcription: template strand, RNA polymerase, promoter, transcription unit, 5'→3' synthesis; hnRNA processing in eukaryotes (capping, tailing, splicing — introns and exons); genetic code: codon (triplet), 64 codons (61 sense + 3 stop), degeneracy, universality, non-overlapping, non-ambiguous; start codon AUG (methionine); stop codons UAA, UAG, UGA; tRNA structure (cloverleaf, anticodon, CCA-3' end); translation: initiation, elongation (peptide bond by peptidyl transferase), termination; gene regulation: Lac Operon in E. coli (Jacob-Monod model) — structural genes (lacZ, lacY, lacA), operator, promoter, regulator gene (lac I — repressor protein), inducer (allolactose), inducible operon."
+        },
+        {
+          "topicId": 30707,
+          "topicName": "Human Genome Project and DNA Fingerprinting",
+          "isHighYield": true,
+          "explanation": "Human Genome Project: goals (sequence all ~3×10⁹ bp), findings (25,000 genes, 1.1 million SNPs, repetitive DNA), significance; DNA fingerprinting (Alec Jeffreys): principle (Variable Number of Tandem Repeats — VNTRs, Southern blotting, DNA probes, autoradiography); applications: forensics, paternity testing, population studies; protein biosynthesis overview."
+        },
+        {
+          "topicId": 30708,
+          "topicName": "Origin of Life and Biological Evolution",
+          "isHighYield": true,
+          "explanation": "Origin of life: Big Bang, chemical evolution (Oparin-Haldane hypothesis — primordial soup), Miller-Urey experiment (amino acids from inorganic molecules); first cells (coacervates, microspheres); evidences for evolution: palaeontology (fossils, geological time scale), comparative anatomy (homologous organs — divergent evolution; analogous organs — convergent evolution; vestigial organs), comparative embryology (von Baer's law), molecular evidence (DNA/protein homology, cytochrome c)."
+        },
+        {
+          "topicId": 30709,
+          "topicName": "Mechanisms of Evolution",
+          "isHighYield": true,
+          "explanation": "Lamarckism (inheritance of acquired characters — incorrect); Darwinism: natural selection, variation, survival of the fittest, examples (Industrial melanism in Biston betularia, antibiotic resistance); Modern Synthetic Theory (Neo-Darwinism): mutation + natural selection + genetic drift + gene flow + reproductive isolation; types of natural selection: directional, stabilising (normalising), disruptive; Hardy-Weinberg principle: allele frequency equilibrium (p + q = 1; p² + 2pq + q² = 1); conditions (random mating, no mutation, no selection, no gene flow, large population); deviations = evolutionary forces; genetic drift (Founder effect, Bottleneck effect); gene flow; adaptive radiation (Darwin's finches, Australian marsupials)."
+        },
+        {
+          "topicId": 30710,
+          "topicName": "Human Evolution",
+          "isHighYield": true,
+          "explanation": "Out-of-Africa hypothesis; timeline: Dryopithecus (ape-like), Ramapithecus → Australopithecus (walked upright, small brain, Africa, 2 MYA) → Homo habilis (first tool use, 2 MYA) → Homo erectus (used fire, large brain, 1.5 MYA) → Homo heidelbergensis → Homo neanderthalensis (Ice Age, buried dead) → Homo sapiens (modern humans, 75,000-10,000 years ago); Cro-Magnon."
+        }
+      ]
+    },
+    {
+      "chapterId": 308,
+      "chapterName": "Biology and Human Welfare",
+      "priority": "very_high",
+      "summary": "Infectious diseases, immunity, cancer, AIDS, microbes in welfare — 4-5 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch308.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 16,
+      "estimatedMarksMax": 20,
+      "topics": [
+        {
+          "topicId": 30801,
+          "topicName": "Human Diseases — Pathogens and Parasites",
+          "isHighYield": true,
+          "explanation": "Diseases caused by pathogens — all must be known: Malaria (Plasmodium vivax/falciparum — female Anopheles mosquito vector, liver and RBC stages, drugs: chloroquine, quinine); Filariasis/Elephantiasis (Wuchereria bancrofti — Culex mosquito, lymph vessels blockage); Ascariasis (Ascaris lumbricoides — roundworm, faecal-oral, intestinal infestation); Typhoid (Salmonella typhi — contaminated food/water, Widal test, rose spots); Pneumonia (Streptococcus pneumoniae and Haemophilus influenzae — alveoli filled with fluid); Common cold (Rhinoviruses — nasal congestion, spreads by droplets/contact); Amoebiasis (Entamoeba histolytica — contaminated water, dysentery); Ringworm/Tinea (Microsporum, Trichophyton, Epidermophyton — fungi, dry scaly lesions); Dengue fever (dengue virus — Aedes aegypti mosquito, thrombocytopenia, high fever, two strains cause dengue haemorrhagic fever); Chikungunya (Chikungunya virus — Aedes mosquito, joint pain, fever)."
+        },
+        {
+          "topicId": 30802,
+          "topicName": "Immunity and Vaccines",
+          "isHighYield": true,
+          "explanation": "Innate immunity: physical barriers (skin, mucus), cellular barriers (phagocytes — neutrophils, monocytes, macrophages, NK cells), physiological barriers (fever, acid in stomach), cytokine barriers (interferons); adaptive/acquired immunity: active (self-generated antibodies — lasting) vs passive (ready-made antibodies — temporary); primary and secondary immune response; humoral immunity: B-lymphocytes → plasma cells → antibodies (IgG, IgA, IgM, IgE, IgD); cell-mediated immunity: T-lymphocytes (helper T, cytotoxic T, suppressor T, memory T); MHC: HLA complex; vaccines: active immunisation (weakened/killed pathogens or their products); monoclonal antibodies."
+        },
+        {
+          "topicId": 30803,
+          "topicName": "Cancer",
+          "isHighYield": true,
+          "explanation": "Normal vs neoplastic cells; types: benign (encapsulated, localised) and malignant (invasive, metastasis); causes: physical carcinogens (UV, X-rays), chemical carcinogens (tobacco smoke, asbestos), biological carcinogens (oncogenic viruses — EBV, HPV); oncogenes (mutated proto-oncogenes — Ras, Myc, Src); tumour suppressor genes (p53 — 'guardian of genome', Rb); detection: biopsy, MRI, CT scan, immunological methods; treatment: surgery, radiation therapy, chemotherapy (anti-cancer drugs), immunotherapy."
+        },
+        {
+          "topicId": 30804,
+          "topicName": "HIV and AIDS",
+          "isHighYield": true,
+          "explanation": "HIV (Human Immunodeficiency Virus) — retrovirus; genome: two RNA strands + reverse transcriptase; transmission: sexual contact, contaminated needles, blood transfusion, mother to child (vertical); pathogenesis: HIV infects CD4⁺ T-lymphocytes (helper T cells) and macrophages; uses reverse transcriptase to integrate into host DNA (provirus); gradual destruction of CD4⁺ cells → AIDS (CD4⁺ count < 200/μL); opportunistic infections; ELISA test for diagnosis; Western blot confirmatory; treatment: antiretroviral therapy (ART) — NRTIs, NNRTIs, protease inhibitors; no cure/vaccine."
+        },
+        {
+          "topicId": 30805,
+          "topicName": "Adolescence, Drug and Alcohol Abuse",
+          "isHighYield": true,
+          "explanation": "Adolescence: physical, hormonal, psychological changes; drugs of abuse: opioids (heroin/smack — from Papaver somniferum, morphine acetylation, CNS depressant), cannabinoids (marijuana, hashish, ganja — from Cannabis sativa, THC), coca alkaloids (cocaine — from Erythroxylum coca, stimulant, dopamine rush); tobacco: nicotine (stimulant), CO and carcinogens (cancer), tar; alcohol abuse: liver cirrhosis, brain damage, social effects; consequences of drug abuse: addiction, withdrawal symptoms, crime, AIDS risk; prevention: education, counselling, peer pressure resistance."
+        },
+        {
+          "topicId": 30806,
+          "topicName": "Microbes in Human Welfare",
+          "isHighYield": true,
+          "explanation": "Household food processing: Lactobacillus in curd formation; fermentation (bread — Saccharomyces cerevisiae), cheese (Propionibacterium — holes in Swiss cheese, Penicillium — Roquefort); industrial production: antibiotics (Penicillin — Penicillium notatum, discovered by Fleming; Streptomycin — Streptomyces), statins (Monascus purpureus), ethanol, citric acid (Aspergillus niger), enzymes, vitamins, bioactive molecules (cyclosporin A from Trichoderma polysporum); sewage treatment: primary (sedimentation), secondary (BOD reduction by aerobic microbes in aeration tank — activated sludge, anaerobic digestion in sludge digesters → biogas); biogas production: methanogens (Methanobacterium) from dung; biocontrol agents: Bacillus thuringiensis (Bt) — Cry proteins as biopesticides, Trichoderma and Baculoviruses; biofertilizers: Rhizobium (symbiotic N-fixation in legumes), Azotobacter and Azospirillum (free-living N-fixation), blue-green algae (Anabaena, Nostoc — in paddy fields), mycorrhiza (Glomus — phosphate solubilisation)."
+        }
+      ]
+    },
+    {
+      "chapterId": 309,
+      "chapterName": "Biotechnology and Its Applications",
+      "priority": "very_high",
+      "summary": "rDNA technology, PCR, transgenic organisms, gene therapy — 3-4 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch309.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 30901,
+          "topicName": "Principles and Tools of Genetic Engineering",
+          "isHighYield": true,
+          "explanation": "Recombinant DNA technology (rDNA): basic principles (cutting, joining, introducing DNA into host); restriction endonucleases (restriction enzymes): Type II (EcoRI, HindIII, BamHI) — recognition sites (palindromes), sticky ends and blunt ends; gel electrophoresis: principle (DNA migration by size in agarose), Southern blotting, ethidium bromide staining, UV visualisation; cloning vectors: plasmid (pBR322 — ori, antibiotic resistance genes, restriction sites), bacteriophage lambda, cosmids, BAC, YAC; competent host (CaCl₂ treatment, electroporation); selectable markers (antibiotic resistance, insertional inactivation — blue-white screening)."
+        },
+        {
+          "topicId": 30902,
+          "topicName": "PCR and DNA-Based Techniques",
+          "isHighYield": true,
+          "explanation": "Polymerase Chain Reaction (PCR): principle (exponential amplification of target DNA); steps: denaturation (94°C), annealing (primers — 50-65°C), extension (Taq polymerase — 72°C); thermocycler; applications: forensics, disease diagnosis, evolutionary studies; bioreactor: scale-up of rDNA products; downstream processing: isolation, purification of product."
+        },
+        {
+          "topicId": 30903,
+          "topicName": "Applications in Health — Insulin and Vaccines",
+          "isHighYield": true,
+          "explanation": "Genetically engineered insulin: Eli Lilly (1982) — humulin; human insulin gene cloned in E. coli; A and B chains produced separately → combined with disulphide bonds; comparison with animal insulin; vaccine production: hepatitis B vaccine (from yeast), subunit vaccines, edible vaccines (transgenic plants — banana, tomato); gene therapy: somatic gene therapy — ADA deficiency (SCID) — first human gene therapy (1990, Ashanthi DeSilva), vector-mediated gene delivery."
+        },
+        {
+          "topicId": 30904,
+          "topicName": "Genetically Modified Organisms — Bt Crops and Transgenic Animals",
+          "isHighYield": true,
+          "explanation": "Transgenic plants: Bt cotton (Bacillus thuringiensis cry genes — Cry1Ac and Cry2Ab — encode Bt toxin δ-endotoxin — activated in alkaline insect gut → pore formation → insect death; pest: Bollworm); Bt corn (Cry1Ab — corn borer); FLAVR SAVR tomato (antisense RNA for polygalacturonase — delayed ripening); Golden Rice (beta-carotene synthesis — cry1, cry2, psy genes); transgenic animals: Rosie (cow with human α-lactalbumin), knock-out and knock-in mice (research models), transgenic sheep, pigs for xenotransplantation."
+        },
+        {
+          "topicId": 30905,
+          "topicName": "Biosafety, Biopiracy and Patents",
+          "isHighYield": true,
+          "explanation": "Biosafety issues: GMO risks (gene pollution, allergies, ecological balance disruption); GEAC (Genetic Engineering Appraisal Committee) in India — regulatory body; containment levels (BL1 to BL4); biopiracy: unauthorised use of biological resources and traditional knowledge by corporations (examples: Basmati rice — RiceTec USA patent contested, Turmeric patent challenged by India, Neem — W.R. Grace patent challenged); biodiversity and traditional knowledge protection; TRIPS (Trade-Related Intellectual Property Rights); CIPD; patents on life forms controversy."
+        }
+      ]
+    },
+    {
+      "chapterId": 310,
+      "chapterName": "Ecology and Environment",
+      "priority": "high",
+      "summary": "Population ecology, ecosystem, biodiversity conservation — 3-4 questions annually in NEET.",
+      "zipUrl": "biology/chapters/ch310.zip",
+      "questionCount": 65,
+      "diagramCount": 36,
+      "sizeKB": 5120,
+      "repeatFrequency": 10,
+      "totalYearsConsidered": 15,
+      "estimatedMarksMin": 12,
+      "estimatedMarksMax": 16,
+      "topics": [
+        {
+          "topicId": 31001,
+          "topicName": "Organisms and Populations",
+          "isHighYield": true,
+          "explanation": "Population attributes: birth rate (natality), death rate (mortality), age distribution (pre-reproductive, reproductive, post-reproductive; age pyramids — expanding, stable, declining), sex ratio; population growth: exponential growth (dN/dt = rN, J-shaped curve, unlimited resources), logistic growth (dN/dt = rN[(K-N)/K], S-shaped sigmoid curve, K = carrying capacity, intraspecific competition); population interactions — all types must be known: mutualism (+/+ — Rhizobium in legume roots, lichen, mycorrhiza, orchid bees), commensalism (+/0 — barnacles on whale, orchid on mango tree), amensalism (−/0 — Penicillium vs bacteria), competition (−/− — Gause's competitive exclusion principle, resource partitioning), predation (+/− — predator-prey cycles, co-evolution, camouflage, mimicry), parasitism (+/− — Cuscuta on host, Plasmodium, brood parasitism in birds)."
+        },
+        {
+          "topicId": 31002,
+          "topicName": "Ecosystem — Structure and Productivity",
+          "isHighYield": true,
+          "explanation": "Ecosystem structure: abiotic components (temperature, light, water, minerals) and biotic components (producers, consumers, decomposers); functional aspects; productivity: gross primary productivity (GPP — total photosynthesis), net primary productivity (NPP = GPP − respiration), secondary productivity; decomposition: detritus food chain; steps: fragmentation, leaching, catabolism, humification, mineralisation; factors affecting decomposition (temperature, humidity, O₂ availability, C:N ratio of detritus)."
+        },
+        {
+          "topicId": 31003,
+          "topicName": "Energy Flow and Ecological Pyramids",
+          "isHighYield": true,
+          "explanation": "Trophic levels: producers (T1) → primary consumers (T2) → secondary consumers (T3) → tertiary consumers (T4); Lindeman's 10% law (only 10% energy transferred between trophic levels — rest lost as heat); food chain (grazing and detritus); food web; ecological pyramids: pyramid of number (can be inverted — tree ecosystem), pyramid of biomass (can be inverted — aquatic ecosystems), pyramid of energy (always upright, never inverted); production efficiency; standing crop."
+        },
+        {
+          "topicId": 31004,
+          "topicName": "Nutrient Cycling",
+          "isHighYield": true,
+          "explanation": "Biogeochemical cycles — gaseous (atmospheric reservoir) and sedimentary (Earth's crust reservoir); carbon cycle: photosynthesis (fixation), respiration, combustion, decomposition, ocean as reservoir; nitrogen cycle: nitrogen fixation (biological — Rhizobium, Azotobacter; industrial — Haber process; atmospheric — lightning), ammonification, nitrification (Nitrosomonas, Nitrobacter), denitrification (Pseudomonas) — complete cycle with organisms at each step; phosphorus cycle (sedimentary, no gaseous phase)."
+        },
+        {
+          "topicId": 31005,
+          "topicName": "Biodiversity and Its Conservation",
+          "isHighYield": true,
+          "explanation": "Concept of biodiversity: genetic diversity (different alleles within species), species diversity (variety of species), ecological diversity (variety of ecosystems); patterns: latitudinal gradients (species richness increases towards equator), species-area relationship (S = CA^z — MacArthur and Wilson); importance (direct values: food, drugs, aesthetic; indirect values: ecosystem services); threats: habitat loss (most important cause), overexploitation, alien species invasion, co-extinctions; global species: ~7 million total; India: 12 mega-biodiversity nations; conservation strategies: in-situ (on-site — national parks, wildlife sanctuaries, biosphere reserves, sacred groves, gene banks — most appropriate) and ex-situ (off-site — botanical gardens, zoos, cryopreservation, in vitro fertilisation); hotspots: Western Ghats + Sri Lanka, Himalayas (Indo-Burma), Indo-Burma, Sundaland — 34 global hotspots (2.5% of land but 50% of all species); IUCN categories: Extinct (EX), Extinct in Wild (EW), Critically Endangered (CR), Endangered (EN), Vulnerable (VU), Near Threatened (NT), Least Concern (LC); Red Data Book; biosphere reserves (UNESCO — 18 in India); protected areas (national parks — 100+ in India; wildlife sanctuaries — 500+ in India); Sacred Groves (traditional community protection of forest patches)."
+        }
+      ]
+    }
+  ]
+}
